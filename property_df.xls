@@ -1,0 +1,1001 @@
+property_id,property_type,price,bedrooms,bathrooms,square_feet,year_built,location,listing_date,agent_name
+1,apartment,478801.06,2,4,1237,1960,PO Box 88169,10/16/2022,Lexi Baxstare
+2,house,276772.33,1,1,1404,1977,Suite 59,8/28/2022,Perice Castane
+3,apartment,959658.5,1,1,3569,1940,PO Box 37031,1/30/2021,Eva Kilbane
+4,townhouse,827320.4,4,3,1179,1968,Suite 88,5/16/2021,Sindee Fudge
+5,townhouse,713622.19,4,2,2028,1922,8th Floor,4/27/2021,Marius Hazel
+6,apartment,477249.19,2,3,3656,1931,Suite 86,1/5/2020,Uriah Paffett
+7,house,533221.28,4,3,4998,1947,16th Floor,10/25/2022,Theo Castanyer
+8,townhouse,239840.13,3,2,4018,1929,9th Floor,8/10/2022,Teresina Tregea
+9,condo,112544.42,1,4,4746,1973,Apt 1194,6/13/2022,Benny Scraggs
+10,townhouse,213118.27,2,4,3504,1933,7th Floor,6/15/2020,Rufe Siddeley
+11,house,556144.1,1,1,1954,1967,Apt 1290,3/17/2022,Betteann Larvor
+12,condo,188720.85,2,2,554,2013,PO Box 91688,2/17/2020,Hildagarde Jotcham
+13,townhouse,583798.99,1,3,4873,1947,Apt 1103,4/18/2021,Hector Loreit
+14,townhouse,451746.07,1,3,1487,2011,Apt 1989,4/10/2020,Shawnee Dacres
+15,townhouse,596924.36,2,4,690,1952,Apt 733,3/20/2022,Bev Waudby
+16,condo,607792.75,5,4,4149,1952,Room 1299,10/19/2022,Thorsten Fortesquieu
+17,condo,667386.5,5,1,3024,2008,Room 1964,11/2/2020,Kaylee Drinkel
+18,condo,497288.03,2,3,4234,1994,11th Floor,4/25/2021,Adena Wollard
+19,house,854611.59,2,3,3670,2016,Suite 88,8/5/2020,Ranee Petz
+20,apartment,727700.23,5,4,3548,2019,Apt 971,11/27/2021,Lincoln Pontefract
+21,condo,589226.13,5,2,2643,1979,14th Floor,6/27/2021,Erny MacAndreis
+22,townhouse,625505.11,1,2,3721,1982,Suite 79,3/3/2020,Brooke Jakubowsky
+23,house,131254.09,1,4,2718,1912,Suite 8,10/20/2020,Xenos Blague
+24,condo,836441.9,1,1,682,1960,Suite 2,1/8/2021,Albrecht Adamski
+25,condo,140857.17,4,2,4747,1907,Apt 1302,6/3/2022,Heloise Sedgemore
+26,house,767806.89,3,3,3680,2003,3rd Floor,4/22/2022,Nicholas Lowres
+27,apartment,876086.01,5,4,3602,1920,Suite 100,10/11/2022,Cristine Haveline
+28,townhouse,144987.84,3,1,2243,1942,Suite 47,11/5/2021,Kristoforo Kayser
+29,condo,144431.46,3,4,953,1975,Apt 1543,5/7/2022,Trstram Annable
+30,condo,441032.16,3,3,2363,1958,Apt 1480,8/13/2021,Jamie Iacomini
+31,townhouse,228761.95,5,1,2869,1988,PO Box 94228,7/15/2020,Salomo Gieves
+32,house,678984.17,1,1,2563,1914,Room 919,11/19/2022,Mendie Karpushkin
+33,condo,359744.71,1,1,2653,1900,PO Box 76353,11/29/2022,Moses Messruther
+34,house,953341.6,4,4,2712,1916,Apt 48,4/19/2021,Querida Teale
+35,apartment,644705.84,3,3,3475,1989,Apt 553,1/23/2022,Audi Strelitzer
+36,house,447021.56,2,3,1443,1998,Room 8,4/10/2021,Giraldo Tours
+37,apartment,205399.98,4,1,2375,2005,Suite 40,9/5/2020,Silvia Redborn
+38,townhouse,423414.58,3,2,4237,1915,Apt 1074,1/30/2021,Jolynn Coatsworth
+39,apartment,345138.06,3,4,2417,1909,PO Box 36408,5/7/2021,Helene Westoll
+40,house,843708.37,3,2,3229,1912,18th Floor,1/4/2020,Brenn Frankish
+41,condo,617993.93,2,1,2772,1943,Apt 1066,5/27/2022,Robinett Speenden
+42,condo,797133.38,4,3,701,1944,Room 1872,3/27/2022,Dodie Castagneto
+43,house,322104.76,1,2,1756,2018,Apt 1486,7/6/2020,Glad Reast
+44,townhouse,146832.78,1,4,2583,1904,PO Box 54758,6/29/2021,Cordelia Rawlyns
+45,apartment,931544.65,4,3,3008,1911,Room 10,11/9/2020,Chloe Bembridge
+46,condo,544802.62,2,4,4775,2020,PO Box 35234,1/24/2020,Wit Pescud
+47,apartment,249178.27,3,2,4903,1929,Suite 90,2/28/2021,Barde Coghlin
+48,apartment,373306.59,2,1,2911,1956,Apt 1906,1/25/2022,Antonie Bodycombe
+49,apartment,679041.63,5,2,2201,1929,13th Floor,2/9/2020,Cyrill Abram
+50,condo,822823.25,2,1,1557,1911,PO Box 39784,1/17/2020,Raye Espinet
+51,apartment,982864.01,4,2,4505,1934,14th Floor,3/26/2022,Brit Quenell
+52,house,201406.95,3,1,1938,1925,Suite 99,1/11/2020,Madelaine Deboick
+53,house,944086.54,3,3,1893,1967,PO Box 57434,3/20/2020,Frayda Freeberne
+54,house,824108.25,2,2,3477,1946,Suite 97,1/22/2022,Christina Pauletti
+55,condo,309867.35,3,4,1637,1987,PO Box 29159,5/14/2020,Woodrow Huddart
+56,townhouse,716843.62,5,1,4180,1986,Apt 71,1/24/2022,Darn Sellstrom
+57,condo,254075.61,1,4,2795,1970,Apt 660,8/17/2021,Suzann Ilyushkin
+58,house,621130.54,2,4,522,1955,Suite 93,8/26/2022,Natale Carayol
+59,house,131012.38,5,2,3756,1977,Apt 505,11/6/2021,Ronni Abrahm
+60,townhouse,326890.88,2,1,2546,1945,Suite 7,11/16/2021,Caressa Mariotte
+61,house,709382.61,4,1,3342,1937,20th Floor,4/13/2022,Dahlia Woolfitt
+62,townhouse,452454.16,1,2,3931,2011,10th Floor,4/1/2020,Angie Bento
+63,condo,914386.78,4,4,3029,1949,4th Floor,11/21/2022,Ferris Alleyne
+64,house,894830.94,1,2,4149,1950,10th Floor,6/5/2021,Bartlet Boick
+65,townhouse,141865.74,1,4,3382,1918,Apt 1551,10/22/2020,Sigismond Buncom
+66,condo,613625.94,1,3,4557,1973,5th Floor,3/16/2022,Peri Tarpey
+67,house,480851.03,4,1,2802,1992,2nd Floor,5/4/2022,Hayward Croot
+68,townhouse,416022.43,1,3,3886,1921,Room 1243,1/17/2021,Jose Raybould
+69,townhouse,561634.33,4,3,2262,1932,PO Box 23907,10/26/2021,Hillyer Arkil
+70,townhouse,978685.01,3,4,2430,1921,Room 1265,9/12/2021,Mariejeanne Ivatts
+71,apartment,216685.36,5,1,2586,1995,Suite 42,4/1/2020,Karlene Chinge
+72,condo,187467.75,1,3,2359,1992,Apt 753,11/16/2022,Wait Ousby
+73,apartment,828207.88,4,2,2737,1937,17th Floor,4/11/2022,Nikola Maddie
+74,house,900660.04,2,4,3864,1989,PO Box 71231,7/18/2021,Ryan Signorelli
+75,house,338084.51,3,4,4145,1954,7th Floor,9/11/2022,Averil McKane
+76,condo,946727.31,4,4,3784,1937,Suite 90,7/8/2020,Bendix Farnes
+77,townhouse,503301.73,3,4,3694,2020,Apt 1343,4/21/2022,Armin Krop
+78,condo,765203.02,4,3,1347,1967,Suite 100,7/5/2022,Torrance Danher
+79,condo,860554.42,5,3,2914,2003,Suite 96,9/1/2022,Morten Ibbett
+80,townhouse,180961.05,2,1,1708,1959,PO Box 78935,9/22/2022,Levon Kless
+81,townhouse,573406.64,3,1,1133,1908,11th Floor,10/12/2022,Des Fronks
+82,apartment,347791.02,4,2,4409,1918,Suite 57,1/6/2021,Cully Reiglar
+83,house,658658.51,4,1,1835,1914,Suite 82,1/3/2020,Elita Eusden
+84,condo,577847.99,3,1,4553,1960,Room 768,10/9/2020,Carly Scamerdine
+85,townhouse,645037.72,5,1,2985,1920,Room 89,4/2/2020,Ranee Couroy
+86,townhouse,293018.43,2,3,3222,1964,PO Box 70228,9/26/2022,Mala Crowley
+87,house,150503.12,2,1,4117,1996,1st Floor,3/23/2022,Kacey Walewski
+88,apartment,399428.18,5,1,570,1962,Room 1847,12/26/2020,Rozelle Scinelli
+89,condo,355628.79,2,3,4823,1963,Suite 46,3/31/2020,Ariella Hemphall
+90,townhouse,213204.47,3,2,2769,1928,8th Floor,12/27/2020,Georgiana Grayston
+91,townhouse,835494.17,5,4,865,1979,20th Floor,7/27/2022,Caddric Gyer
+92,apartment,194350.03,2,4,4721,2015,PO Box 55184,8/10/2022,Sebastien Grishagin
+93,condo,626992.59,2,4,3642,2016,PO Box 66598,10/19/2020,Leandra Poizer
+94,house,936247.61,5,4,2431,2017,Suite 26,11/4/2020,Hoyt McFadin
+95,house,641250.88,1,1,2786,1962,Room 457,11/20/2020,Denny Marriage
+96,apartment,183699.19,3,3,1728,2001,8th Floor,4/14/2020,Verna Shoebridge
+97,townhouse,585285.42,5,4,523,1908,PO Box 91871,2/12/2022,Lennie Fitzsymonds
+98,house,359840.64,5,1,2146,1915,13th Floor,10/9/2021,Sari Screaton
+99,townhouse,607516.74,2,2,774,1964,Suite 20,2/6/2020,Isaiah Madigan
+100,condo,352705.55,3,4,3081,1982,PO Box 59670,2/25/2020,Jehu Glasscock
+101,apartment,890562.46,4,2,4280,1935,12th Floor,5/6/2021,Inger Puddin
+102,townhouse,759051.55,4,3,3278,1998,Suite 8,2/5/2021,Trixy Havock
+103,condo,379064.62,4,2,2954,1919,Apt 1563,6/8/2020,Nehemiah Christmas
+104,house,118390.58,4,1,4062,1904,13th Floor,3/1/2021,Bernadine Jeffs
+105,townhouse,827219.74,2,3,2581,1990,15th Floor,6/5/2021,Ariella Mitkcov
+106,townhouse,238942.51,3,4,1666,2021,Apt 1731,3/22/2021,Orelie Benedick
+107,house,738582.83,1,1,2440,1903,Room 743,12/27/2022,Iolanthe Baume
+108,house,849358.5,1,4,3442,1998,Suite 64,7/5/2020,Noami Amoss
+109,house,687915.1,3,2,2874,2020,Suite 37,8/1/2022,Abbye Simmonds
+110,house,337844.02,3,2,2346,1993,16th Floor,11/5/2021,Audrie Mayhew
+111,condo,784704.64,3,4,1215,1983,18th Floor,6/19/2021,Eli Cuncliffe
+112,townhouse,914079.49,3,2,1041,1931,PO Box 71222,10/20/2021,Elonore Donaho
+113,condo,804047.32,1,1,2392,1967,8th Floor,7/3/2020,Frederich Lyal
+114,townhouse,339395.55,5,1,1998,1925,15th Floor,6/3/2022,Kelcey Delagua
+115,house,831206.06,4,1,1866,1906,3rd Floor,12/27/2022,Vachel Calabry
+116,house,559173.45,4,2,891,1952,Apt 1827,11/23/2022,Gardiner Walsh
+117,townhouse,936576.66,5,4,2799,1973,12th Floor,11/18/2020,Alverta Bruntjen
+118,house,954077.12,1,4,4932,2021,PO Box 3294,1/1/2020,Bryn Lumbley
+119,apartment,279665.0,1,2,1264,1970,Room 1773,12/3/2022,Kristan Racher
+120,townhouse,821441.73,2,2,3668,1981,PO Box 86411,6/9/2021,Wyndham Rannie
+121,townhouse,939252.45,4,3,4723,1950,Suite 15,9/7/2022,Bentley Barnsdall
+122,house,920393.8,2,3,4524,1976,Suite 64,6/17/2021,Jennette Derington
+123,apartment,227166.52,1,3,517,1905,PO Box 23271,7/20/2021,Erie Pollicatt
+124,townhouse,246437.71,4,1,4046,1903,Apt 617,1/23/2022,Kelsey Hamson
+125,house,822621.69,5,1,2328,1931,Suite 50,7/18/2021,Cherey Lilburn
+126,house,315541.3,5,4,3803,2011,PO Box 60837,1/3/2021,Ezechiel Cranton
+127,townhouse,828018.6,5,3,3263,1910,Room 1117,11/17/2022,Shelba Fraschetti
+128,condo,620446.01,1,4,2017,2000,Room 371,5/19/2022,Maia Edsall
+129,apartment,913493.68,4,3,4306,1996,14th Floor,6/28/2020,Bliss Rowter
+130,apartment,531771.84,3,4,595,2004,PO Box 468,11/5/2020,Paton Gumly
+131,condo,467344.87,1,4,1877,1905,Suite 92,6/26/2021,Imojean Dingwall
+132,townhouse,298247.2,3,2,4912,1982,7th Floor,3/29/2021,Ursuline Heineking
+133,apartment,826414.36,4,2,2527,1992,2nd Floor,6/1/2022,Dru Huggens
+134,townhouse,881492.98,2,2,584,1910,Suite 99,6/22/2022,Hinze Kilmurray
+135,townhouse,590198.36,1,2,638,2005,Room 1314,2/3/2021,Leopold De Souza
+136,townhouse,223781.1,4,2,2096,1992,Room 1142,12/26/2021,Orland Vanini
+137,apartment,822735.66,2,1,2998,1954,Room 1145,8/30/2020,Darci Mackin
+138,apartment,259059.6,3,2,2454,1958,PO Box 23349,4/27/2020,Calvin Langdale
+139,condo,942774.71,2,3,4546,1932,16th Floor,5/14/2020,Kettie Pietesch
+140,townhouse,138460.53,4,4,2581,1994,Room 1187,6/23/2021,Boigie Newland
+141,apartment,498690.72,2,2,1514,1939,14th Floor,1/18/2022,Tillie Beaushaw
+142,townhouse,121147.35,4,3,4307,1971,Apt 260,12/15/2020,Yvonne Grace
+143,apartment,252057.97,3,3,2712,1932,4th Floor,1/7/2020,Roseanne Purcell
+144,condo,842835.21,4,3,4711,1936,Apt 679,6/10/2021,Nissie Irnis
+145,apartment,236343.1,1,2,1694,1922,Room 209,1/10/2022,Arman Breawood
+146,house,272344.54,2,4,4790,1991,Suite 74,3/2/2022,Townsend Jackett
+147,apartment,692466.97,1,4,852,1905,1st Floor,4/25/2020,Wiley Wallhead
+148,townhouse,419118.14,4,1,1379,2000,PO Box 81225,10/19/2022,Ivonne Treweke
+149,condo,666357.29,1,2,1757,1950,Apt 1475,2/23/2020,Karie Peaker
+150,house,301884.59,3,3,1183,2009,Room 1344,3/25/2021,Sheela Bice
+151,house,932950.21,3,2,4084,1988,Apt 1066,5/29/2022,Amity Peskett
+152,condo,682455.18,1,1,3655,1915,Room 584,5/2/2021,Godfry Brosnan
+153,townhouse,236544.11,3,4,773,2021,14th Floor,10/1/2022,Fowler Humby
+154,house,848499.43,1,2,3289,1946,13th Floor,3/9/2022,Alex Hartness
+155,townhouse,713263.28,1,1,1886,1941,Room 412,3/27/2022,Atlante Esler
+156,condo,239393.63,4,4,672,1978,Apt 1488,11/23/2021,Stephanie Josupeit
+157,house,834727.26,2,3,2954,1975,PO Box 17267,12/1/2022,Cleo Kubin
+158,condo,487806.63,5,2,2374,1948,Suite 1,6/16/2022,Hartwell McShirrie
+159,apartment,101822.48,3,4,2659,1910,Room 1335,9/30/2021,Vere Fligg
+160,condo,889030.59,2,1,1676,2013,13th Floor,11/30/2021,Edwin Gadie
+161,condo,313761.52,2,2,1888,1942,Apt 1900,10/8/2022,Liva Cloutt
+162,apartment,898982.96,5,2,941,2014,Apt 685,11/7/2021,Lennie Few
+163,condo,776924.88,1,4,3310,1958,5th Floor,6/8/2020,Clari Adamovitch
+164,apartment,897349.36,5,1,4091,2007,Suite 76,4/27/2020,Roxy Fleischmann
+165,condo,862892.99,1,2,4492,1974,15th Floor,2/16/2021,Johnny Milmore
+166,apartment,636892.88,2,4,4344,1930,Suite 64,8/21/2020,Darline Bandey
+167,townhouse,508018.07,1,1,1651,1919,18th Floor,2/15/2020,Paulie Winchcum
+168,townhouse,720399.09,5,2,4174,1906,2nd Floor,6/19/2020,Kalindi Stoltz
+169,apartment,116142.49,4,4,2527,1976,PO Box 4373,7/25/2022,Sherline Oertzen
+170,townhouse,118925.11,2,2,4843,1994,Apt 1318,3/24/2020,Brian McGlue
+171,apartment,289275.8,1,3,2478,1921,Room 1511,5/29/2021,Daisi De La Coste
+172,townhouse,872200.21,5,2,2464,1926,19th Floor,6/5/2020,Court Cormack
+173,apartment,278686.2,5,2,4423,1962,8th Floor,11/5/2022,Dukey Wressell
+174,house,950108.42,5,2,937,2006,PO Box 26273,8/30/2021,Aubrey Belfit
+175,townhouse,102434.16,2,1,631,1987,Room 1001,12/23/2022,Randa Tring
+176,apartment,219896.95,4,4,989,1912,Suite 62,8/6/2021,Prentice Greenstead
+177,condo,868754.18,4,3,3402,1990,Suite 73,9/15/2021,Jeane Sparrow
+178,house,180281.68,5,2,2536,1928,Suite 81,1/11/2022,Lyon Shakesby
+179,townhouse,841194.49,5,3,3489,1999,Apt 1257,4/23/2020,Shirlene Wittrington
+180,apartment,358993.36,4,3,2081,1985,Room 353,3/10/2020,Izaak Lewington
+181,townhouse,262465.85,2,4,3881,1994,Room 744,1/30/2020,Lynde Wickenden
+182,apartment,878283.11,3,3,2919,1947,5th Floor,5/16/2021,Lonnard Paynes
+183,house,296352.96,3,3,1115,1915,Room 917,5/29/2022,Ester Kleinerman
+184,condo,812775.65,1,2,1004,1965,Apt 905,1/30/2021,Arny Lister
+185,house,967533.05,5,1,3243,1946,PO Box 72797,6/30/2022,Nikaniki Vasovic
+186,apartment,871051.66,2,1,1176,2007,Suite 74,8/2/2020,Alex Albon
+187,townhouse,429162.97,1,3,973,2015,Room 33,2/20/2021,Brynn Dincke
+188,condo,740859.31,1,3,1829,2017,13th Floor,1/5/2020,Moise Danilyak
+189,house,389511.57,3,1,4435,1910,PO Box 49906,10/26/2020,Fawnia Prowse
+190,house,283994.69,3,1,3928,1963,Suite 50,3/10/2022,Mollie Sargood
+191,condo,533535.1,3,4,2555,1932,Suite 18,10/19/2020,Isabella Rablan
+192,townhouse,271231.83,1,3,4257,1992,Suite 100,1/13/2022,Jessica Kearle
+193,house,181845.43,3,4,4397,1977,Suite 16,9/29/2021,Arvin Rizzolo
+194,apartment,890207.81,5,4,3239,1961,PO Box 11569,6/4/2022,Stacie Catford
+195,house,622514.1,1,3,4336,1979,Room 1688,11/18/2020,Belia Yakobovicz
+196,apartment,778551.9,4,1,4038,1913,Suite 52,5/31/2021,Gregg Hanney
+197,condo,668945.88,4,1,560,1999,Apt 1260,2/14/2022,Fanechka Boller
+198,condo,197231.81,3,4,3957,1940,Apt 603,10/4/2021,Flora Zorzenoni
+199,house,156463.01,5,3,4240,1918,Room 1473,4/8/2020,Bell Fine
+200,condo,586612.29,3,1,4632,1912,Room 1211,4/1/2021,Godfree Branchflower
+201,townhouse,823311.69,4,2,1200,1997,Apt 178,10/7/2020,Fina Kerwick
+202,condo,614122.59,3,1,1757,2002,Room 1452,9/24/2022,Zea Balharrie
+203,apartment,253834.01,4,2,3746,1973,Apt 90,2/9/2021,Tadeas Snelson
+204,apartment,596007.34,5,3,1098,1919,Apt 1970,2/12/2020,Ethelbert Kiefer
+205,apartment,639296.81,4,4,4595,2016,PO Box 78736,11/1/2022,Maria Ladyman
+206,apartment,586436.42,1,1,3436,1932,PO Box 77093,4/11/2020,Kermie Dechelle
+207,apartment,350176.37,3,2,4675,1920,Apt 1906,9/20/2020,Leesa Chiverton
+208,townhouse,623673.1,5,4,4241,1904,PO Box 89781,6/14/2022,Aron Mechem
+209,apartment,362883.96,4,1,1394,1990,Apt 1240,4/19/2021,Roanne Cawdery
+210,apartment,708173.05,3,2,3611,1933,Room 358,4/23/2022,Ciro Arnould
+211,house,310139.86,2,1,957,1976,Apt 107,11/28/2020,Lockwood Prudence
+212,apartment,778045.88,4,1,3145,1952,Suite 95,3/28/2020,Cindie Bunce
+213,apartment,784996.5,1,2,3690,1929,PO Box 7414,10/24/2020,Beatrix Von Helmholtz
+214,apartment,979362.46,2,4,1486,2006,19th Floor,2/19/2020,Viviyan Daintith
+215,townhouse,412630.93,4,1,3752,1906,Room 341,4/12/2021,Pearle Cornew
+216,condo,244832.07,3,3,3349,1995,20th Floor,9/28/2020,Rene De la Perrelle
+217,house,781619.37,1,2,596,1936,16th Floor,1/15/2021,Pebrook Froom
+218,house,244411.75,2,4,4324,1999,12th Floor,5/17/2021,Moll Harmstone
+219,condo,142317.02,3,3,4414,1936,Suite 100,8/18/2022,Onfre Menchenton
+220,house,223500.75,2,1,549,1948,Room 1245,11/20/2022,Belva Buckles
+221,house,498104.45,4,2,1522,1933,Suite 50,3/5/2021,Merrel Brislawn
+222,townhouse,328454.14,2,2,2002,1939,Apt 1816,5/4/2022,Nicky Gilliver
+223,house,666566.63,3,2,904,2008,Room 698,7/5/2021,Chelsy Bastide
+224,apartment,782598.83,3,4,4826,2007,PO Box 87492,10/9/2022,Archie Jerdein
+225,house,305368.23,3,2,1107,1937,Suite 92,6/14/2021,Clem Routh
+226,house,956072.83,2,3,3954,2021,20th Floor,9/12/2021,Rachael Laherty
+227,condo,468083.2,4,2,1187,1912,7th Floor,2/29/2020,Cissiee Gulc
+228,townhouse,108850.71,5,3,4289,1909,Suite 40,3/24/2021,Mikey Tessington
+229,apartment,866392.57,1,2,2359,1950,8th Floor,7/6/2020,Alaster Breens
+230,townhouse,959617.89,4,3,4789,1952,Apt 1511,12/20/2022,Brietta Northrop
+231,condo,125593.38,1,1,4260,1978,Room 1959,3/12/2022,Nikolia Noli
+232,apartment,297257.87,4,2,2071,2019,Suite 5,5/27/2021,Danice Lory
+233,apartment,910593.3,1,1,4752,1997,PO Box 25588,5/31/2020,Leanora Kaubisch
+234,townhouse,365974.28,5,2,3413,1906,Suite 100,9/24/2021,Sigismondo Delany
+235,townhouse,425391.83,2,4,748,1907,Apt 1573,1/1/2020,Odessa Vakhlov
+236,apartment,882910.3,1,1,3259,1996,PO Box 84979,9/15/2021,Cicily Ossipenko
+237,house,585211.95,1,2,1237,1927,Apt 745,12/3/2020,Devin Amberson
+238,apartment,979759.65,5,4,3055,1950,Apt 889,1/1/2022,Bruno Downham
+239,condo,112675.95,4,3,4683,1912,Apt 430,11/19/2022,Niels Gillatt
+240,house,526823.68,5,3,618,1940,20th Floor,6/14/2020,Kym Fitter
+241,condo,576270.51,3,2,1068,2012,Suite 21,12/6/2021,Germaine Tomlett
+242,house,859096.31,5,2,831,1914,7th Floor,1/21/2021,Zuzana Syder
+243,house,157855.02,2,1,2597,1985,Room 1850,1/4/2022,Reinaldos Souch
+244,condo,656668.08,2,2,1448,1987,Apt 932,10/13/2021,Pollyanna Younger
+245,townhouse,591400.78,3,4,1342,1955,PO Box 85407,10/3/2021,Norma Dorricott
+246,townhouse,207987.78,3,1,3284,1962,Apt 1578,1/13/2021,Davey Lippitt
+247,apartment,300779.24,4,2,3910,1970,Apt 748,1/19/2021,Cy MacQueen
+248,townhouse,980539.72,5,4,4933,1950,PO Box 76239,1/10/2022,Arlina Ryhorovich
+249,apartment,394016.46,5,2,4519,1910,Suite 81,5/20/2020,Paddie Considine
+250,apartment,510359.1,4,2,815,1991,Room 1618,7/12/2022,Prince Fumagallo
+251,condo,414087.92,2,1,2303,1930,Room 137,4/15/2021,Portie Phelp
+252,apartment,589884.71,1,1,4563,2006,Apt 222,2/21/2020,Janot Ashburne
+253,house,759110.66,4,4,3391,2001,Suite 25,11/18/2020,Harcourt Ganter
+254,house,631749.5,5,2,1281,1987,PO Box 85102,11/6/2022,Sabra Canwell
+255,condo,658021.95,3,3,662,1906,PO Box 92111,10/17/2022,Velvet Vasyunin
+256,condo,543242.61,2,1,4537,1995,Apt 1169,5/8/2020,Grenville Brizell
+257,townhouse,879359.78,3,2,2697,1998,Suite 26,3/21/2021,Toby De Normanville
+258,apartment,450869.34,1,1,2927,1990,PO Box 39511,7/25/2022,Hunt Maypes
+259,condo,444355.61,4,3,2435,1962,PO Box 46682,10/12/2022,Charleen Leyborne
+260,house,729078.95,1,4,1370,1923,13th Floor,5/22/2021,Dolores Biffen
+261,townhouse,518895.87,1,1,4505,1957,4th Floor,10/9/2021,Mabelle Woodworth
+262,townhouse,210113.69,5,2,1176,1992,Room 55,2/14/2022,Lilly Swendell
+263,apartment,104905.65,4,1,810,1918,Room 639,3/3/2021,Joachim Mollin
+264,condo,992252.29,4,4,4280,1904,Apt 1066,1/14/2020,Lodovico Hurt
+265,townhouse,912455.95,4,2,2912,1905,Apt 691,1/24/2021,Shoshana Burstowe
+266,apartment,417617.39,1,3,1486,1952,PO Box 67959,10/27/2020,Arthur Novotne
+267,townhouse,405333.08,4,3,3433,1994,Suite 46,10/15/2020,Lurette Yelding
+268,apartment,117149.58,1,4,4459,1912,Apt 384,6/10/2021,Maire Skinley
+269,apartment,648699.54,5,4,2447,1935,19th Floor,10/3/2022,Rochette Skingle
+270,house,658467.48,2,1,2059,1965,PO Box 87247,10/8/2020,Valencia Hansford
+271,townhouse,339905.03,5,3,2157,1960,18th Floor,9/22/2021,Annaliese Lowde
+272,house,356220.94,4,1,3160,1939,Suite 8,12/14/2020,Lorene Cianelli
+273,house,361029.31,1,1,3450,1955,PO Box 23306,1/4/2022,Ashton Cornelis
+274,house,569083.07,3,3,1130,1904,Room 151,1/11/2020,Greg Liquorish
+275,house,394052.43,2,1,2589,1942,11th Floor,12/16/2022,Wiley Klesel
+276,apartment,387288.14,5,4,1262,1903,7th Floor,11/8/2020,Joel Habishaw
+277,house,517705.61,4,1,3122,2005,9th Floor,5/3/2020,Julius Seint
+278,condo,885479.87,4,3,4685,1961,Apt 269,3/14/2022,Rasia Manners
+279,condo,509474.9,1,2,3286,1953,Room 514,9/7/2021,Edd Cave
+280,condo,676753.02,2,4,4612,1980,Room 1026,11/17/2020,Irvin Petkovic
+281,apartment,472733.57,5,3,2856,2005,Suite 98,1/25/2021,Teresina Franceschi
+282,townhouse,857667.46,5,2,2468,1965,6th Floor,6/10/2021,Aeriel Dibson
+283,house,606837.67,3,2,1849,1905,PO Box 42555,9/28/2021,Raleigh Vasic
+284,house,742785.05,1,2,3764,1992,Suite 82,3/17/2021,Bailey Bubeer
+285,townhouse,914609.5,3,2,2013,1975,PO Box 3197,11/26/2020,Erna Blount
+286,apartment,346671.18,2,2,2794,1924,Apt 669,1/16/2020,Ardenia Kissell
+287,house,809883.46,1,4,1407,1989,Room 1980,1/21/2021,Willow Naldrett
+288,house,997310.66,4,3,4705,2021,Room 1367,7/4/2021,Iona Tailour
+289,house,251647.96,5,3,2629,1930,Room 678,7/25/2021,Clarke Gooderson
+290,apartment,215980.15,2,3,2910,2011,PO Box 72615,4/24/2020,Kelci Merrilees
+291,house,961526.86,2,4,2033,1902,Apt 1571,4/15/2022,Melantha Ferneley
+292,townhouse,943287.52,5,3,3461,1995,Room 114,11/12/2022,Tiffie Pasterfield
+293,house,550581.0,3,1,3998,1999,16th Floor,2/18/2021,Jessika Bentz
+294,house,612822.13,1,3,2054,1937,Suite 100,5/30/2020,Rriocard Doogan
+295,apartment,767157.94,2,1,4191,1912,Apt 1496,9/8/2020,Kaiser Halfhyde
+296,house,323609.78,3,2,1856,1969,Apt 366,6/11/2022,Else Stichall
+297,condo,106690.64,1,4,3912,1919,PO Box 70384,3/13/2020,Davie Wenham
+298,townhouse,634281.58,2,2,3501,1978,Suite 95,1/22/2021,Adelle Erie
+299,condo,346066.36,1,2,3140,1925,PO Box 63127,1/12/2020,Eudora Fetters
+300,townhouse,494507.08,2,3,2641,1904,10th Floor,2/7/2021,Felita Tungay
+301,house,973231.28,4,2,1546,2019,PO Box 91448,4/21/2022,Lovell Peres
+302,apartment,853436.02,2,1,1182,2011,Suite 95,5/28/2022,Minerva Barrington
+303,house,504099.42,3,3,3390,1947,Suite 24,9/15/2021,Arturo Ambrozik
+304,townhouse,643269.49,1,4,3118,1970,10th Floor,11/15/2022,Darcee Lamb-shine
+305,house,519125.53,5,4,564,1973,PO Box 11884,5/9/2020,Eugenius Bechley
+306,condo,780812.05,2,3,1571,1902,11th Floor,2/2/2021,Osmond Briztman
+307,condo,529500.7,1,1,4499,2000,PO Box 81408,2/5/2020,Veda MacSporran
+308,townhouse,671119.23,4,4,1273,1900,Room 1586,1/29/2021,Earl Life
+309,house,311399.45,3,3,3019,1982,PO Box 51613,2/6/2022,Leslie Hawkes
+310,house,449256.31,4,2,2515,2005,Apt 1137,9/23/2020,Michale Verma
+311,condo,146479.76,5,4,2796,1925,PO Box 21982,10/12/2020,Ambur Jiggens
+312,apartment,401253.48,4,2,2323,1957,Room 1730,6/19/2021,Bradley Lainton
+313,condo,575889.48,4,1,1712,1959,Suite 23,3/17/2021,Mollie Fowler
+314,apartment,811503.75,2,3,1583,1940,Room 1431,7/6/2021,Nannie Plumtree
+315,house,170522.02,3,3,1224,2004,Apt 700,4/8/2022,Shelby Wildbore
+316,apartment,203139.74,5,1,3703,1908,Room 1111,12/16/2021,Hollie Gornar
+317,apartment,240794.37,2,4,3946,2020,Suite 70,10/17/2020,Maurita Beadles
+318,townhouse,430544.17,1,4,1787,1913,4th Floor,8/10/2022,Irene Frampton
+319,townhouse,266943.25,1,2,1535,1985,Room 1921,7/12/2021,Melesa Jeaffreson
+320,house,576289.74,2,4,2251,2007,PO Box 15787,6/19/2022,Foster Grinyer
+321,apartment,442864.76,2,4,3870,1933,PO Box 60884,6/27/2020,Noam Charke
+322,apartment,264349.64,4,2,2747,1964,PO Box 80136,7/31/2021,Avis Campey
+323,house,467745.57,2,3,2989,2005,6th Floor,4/25/2020,Coriss Alven
+324,condo,888726.23,5,2,3967,2020,Apt 86,2/5/2020,Shoshanna Stiebler
+325,apartment,713427.58,2,2,2234,2018,Suite 74,6/3/2021,Tracey Roches
+326,condo,931137.37,5,3,549,2010,Room 203,9/11/2021,Rodolfo Muzzini
+327,apartment,219609.59,2,2,4147,1981,Apt 1606,10/9/2020,Carlin Jinks
+328,townhouse,601839.81,4,1,1451,1955,Suite 6,1/15/2020,Thom Stearnes
+329,condo,563339.91,4,4,717,2003,Suite 52,10/14/2021,Robinett Beeck
+330,apartment,797921.28,2,1,3696,1958,PO Box 21234,7/10/2022,Kerwinn Keyworth
+331,house,425689.34,3,3,4209,1979,PO Box 41694,2/21/2021,Anabella Cockcroft
+332,apartment,441092.4,5,4,3292,1973,PO Box 56018,7/25/2020,Celestyn Dilawey
+333,apartment,647162.34,2,3,1902,1910,Apt 1976,11/24/2021,Irvin Benjefield
+334,condo,806190.87,3,1,1320,2013,PO Box 98042,6/6/2022,Dyan Truelock
+335,townhouse,828116.77,5,4,1304,1917,Room 1359,8/29/2021,Jobi Beddo
+336,condo,601657.85,5,3,4203,1971,5th Floor,2/9/2022,Willi Staite
+337,house,222862.12,3,2,1782,1930,PO Box 91466,12/31/2021,Velma Baysting
+338,condo,208369.38,1,4,4159,1916,PO Box 41470,10/13/2021,Bidget Yegorev
+339,townhouse,766877.91,4,4,3249,1949,Suite 56,8/28/2022,Letitia Mould
+340,townhouse,391887.09,3,3,1889,1997,Apt 1694,1/2/2022,Winfield Pic
+341,house,783400.99,5,3,3819,1968,PO Box 42565,3/5/2021,Darda Cullabine
+342,house,601202.16,5,4,3241,1984,10th Floor,10/1/2021,Herve Lilliman
+343,condo,552204.92,1,1,4689,2001,Room 1433,11/22/2021,Kassi Bullus
+344,house,369079.92,1,1,4751,1987,Suite 85,7/31/2021,Elsa Dumbarton
+345,townhouse,189309.64,5,3,3055,1970,Room 726,9/18/2020,Bogey Castro
+346,apartment,152215.78,2,2,528,1949,Room 1118,8/13/2020,Pamelina Muncer
+347,house,263848.25,4,3,3953,1971,Suite 54,5/15/2022,Alden Hawke
+348,apartment,500094.07,1,2,1703,2021,PO Box 94231,3/4/2021,Fulton Twitchings
+349,apartment,315891.03,2,3,3267,1949,15th Floor,3/12/2021,Miquela Popescu
+350,house,442996.06,3,4,1376,1918,3rd Floor,4/15/2021,Aretha Baskett
+351,house,407478.76,5,1,1770,1924,18th Floor,5/4/2022,Tracee Killeen
+352,apartment,485565.18,1,3,2601,2010,PO Box 26486,11/13/2020,Norean Sprowles
+353,condo,544395.45,3,4,3852,1992,PO Box 5633,8/12/2022,Glynis Younge
+354,apartment,467493.84,4,4,3499,2006,Apt 1588,10/7/2020,Dionne Elvey
+355,condo,982741.63,2,1,1306,1961,Suite 7,6/14/2021,Hogan Newgrosh
+356,townhouse,115712.22,5,4,2955,2008,Apt 1018,9/11/2021,Letizia Scarrott
+357,house,563557.11,2,4,3593,1918,Apt 1690,3/16/2021,Opaline Blackett
+358,house,713998.87,3,1,3353,1908,8th Floor,12/19/2022,Hastings Gylle
+359,house,698007.09,3,3,4897,1960,Room 1080,9/24/2022,Keith Kingsworth
+360,condo,366157.57,3,4,2382,2014,Apt 627,3/28/2022,Clark Potier
+361,condo,610237.55,4,2,2272,1994,Apt 1125,4/1/2021,Lynne Lartice
+362,townhouse,232876.88,3,2,1746,1901,2nd Floor,1/24/2021,Pierette Crowd
+363,townhouse,179179.67,3,3,729,1997,18th Floor,5/9/2020,Frieda Galia
+364,townhouse,246561.57,5,2,4224,1929,Room 1920,1/1/2022,Mara Woolis
+365,house,728372.63,4,1,2103,1915,PO Box 9829,4/18/2022,Celina Coode
+366,townhouse,909225.62,2,4,3270,1944,PO Box 71092,11/30/2022,Tillie Caller
+367,house,327657.25,5,4,2373,2015,Suite 13,6/7/2022,Byron Lawlee
+368,condo,333040.0,5,1,1197,1963,PO Box 44036,1/22/2021,Billy Rudwell
+369,townhouse,738483.77,4,4,3971,1980,Suite 21,10/5/2022,Carilyn Jessep
+370,apartment,672992.62,5,3,777,1908,PO Box 75185,8/1/2020,Teodorico Bisacre
+371,apartment,509329.83,4,3,3150,1925,13th Floor,8/13/2021,Joey Dutson
+372,apartment,658304.41,5,2,2312,1934,14th Floor,9/10/2022,Lesley MacFaell
+373,house,262902.19,4,1,4982,1956,2nd Floor,4/20/2022,Vern Kinker
+374,condo,300674.86,3,2,2309,1922,PO Box 19300,2/7/2021,Dex Pobjoy
+375,house,353184.04,2,2,2481,2015,Suite 30,1/29/2021,Sarajane Beasant
+376,townhouse,885376.57,4,3,3015,1967,Room 1138,1/12/2021,Cyril Han
+377,condo,442399.86,3,2,4870,1954,PO Box 44581,1/7/2021,Henderson Snoxill
+378,apartment,832431.29,2,3,3800,2011,Apt 1809,1/28/2022,Corri Ormerod
+379,house,918575.74,2,2,2744,1922,PO Box 72375,4/19/2022,Adams Snasel
+380,condo,818211.17,4,2,1283,1971,Room 646,11/5/2022,Corly Pelcheur
+381,apartment,614824.67,4,1,3668,1918,Room 470,6/3/2020,Aundrea Niess
+382,townhouse,296218.26,2,1,2890,1995,Apt 1611,12/9/2020,Lauren Tzar
+383,house,148203.85,4,3,3443,1922,Apt 542,10/17/2021,Dominique Krook
+384,townhouse,423362.09,2,4,977,1952,11th Floor,7/26/2022,Mackenzie Yakovlev
+385,townhouse,787516.78,2,3,3522,1978,Suite 7,12/25/2022,Kara-lynn Dudney
+386,apartment,105995.59,1,2,2753,2013,Apt 571,6/15/2020,Priscella Edkins
+387,apartment,397324.51,3,2,4488,2013,Room 523,2/10/2022,Darell Rasp
+388,apartment,695079.46,3,3,4871,1997,Room 463,3/8/2020,Heather Schreurs
+389,apartment,802749.11,2,2,2884,1963,Suite 74,8/10/2020,Madlin Lowers
+390,condo,929118.37,1,3,3099,1960,Suite 68,7/7/2022,Annis Tourot
+391,condo,419399.23,5,2,2653,1918,Suite 90,12/8/2021,Koren Barkaway
+392,condo,640889.01,1,4,2777,2005,Apt 852,9/6/2020,Jill Andor
+393,house,730386.88,3,4,4451,1996,PO Box 55594,11/14/2022,Candy McKeevers
+394,apartment,390567.67,5,4,1927,1933,Room 332,6/2/2020,Dori Wallworke
+395,apartment,506323.34,2,1,3846,1943,Apt 1153,3/29/2020,Salim Bauldry
+396,house,518350.39,1,2,4629,1962,Apt 1455,10/19/2021,Lory Lorincz
+397,house,460904.65,3,3,1875,1983,Room 916,11/28/2022,Penrod Desouza
+398,apartment,791295.33,5,3,2065,1948,Suite 73,5/3/2021,Hort Ten Broek
+399,house,784889.96,1,4,3853,1993,2nd Floor,11/27/2020,Fayth Garms
+400,apartment,198307.63,3,3,2773,1923,Suite 90,10/3/2022,Lilly Danelet
+401,condo,358303.51,2,1,3943,1928,PO Box 41818,5/1/2021,Kendre Skilbeck
+402,house,948141.41,1,1,3801,2006,Apt 1968,3/20/2021,Marthena Colin
+403,apartment,203016.1,4,1,1752,1982,Apt 183,10/28/2022,Ahmad Polack
+404,condo,930191.62,4,1,3933,1901,PO Box 80104,5/1/2021,Klaus Connealy
+405,condo,294054.17,5,1,4028,2022,PO Box 67343,9/18/2022,Davin Sellan
+406,house,722556.09,5,3,2591,2021,Apt 274,9/24/2021,Kermit Testro
+407,house,616683.56,5,1,2724,1981,Room 950,11/13/2022,Kacey Mosedill
+408,house,232947.9,3,3,4818,1996,PO Box 85615,4/21/2022,Otes Petford
+409,condo,261061.42,4,1,1487,1971,14th Floor,11/15/2020,Scarlet Airlie
+410,townhouse,129515.26,2,2,4429,1999,Suite 80,8/13/2020,Lorette Seeley
+411,apartment,902994.68,1,1,2607,2014,Suite 31,3/24/2022,Yuma Swindley
+412,townhouse,865423.14,2,4,1246,1938,Apt 1037,9/11/2022,Leda Ickovic
+413,townhouse,252603.02,4,2,2026,2011,Suite 13,11/13/2022,Aurelea Palliser
+414,apartment,792168.08,2,2,2827,1990,PO Box 25156,6/3/2021,Geoffry Fairbrass
+415,apartment,905429.31,1,4,4446,1981,1st Floor,3/5/2022,Merrilee Ragat
+416,condo,942623.08,1,4,4358,1913,Room 1763,1/20/2022,Dominick Colthard
+417,apartment,223446.91,5,2,1394,1968,Room 630,10/12/2021,Donavon Bellenger
+418,apartment,822064.08,2,4,4299,1971,PO Box 77844,7/4/2022,Asia Feldberg
+419,apartment,705014.15,1,1,3395,1946,PO Box 39627,1/29/2021,Henryetta Derrell
+420,townhouse,511252.27,5,4,3377,1970,15th Floor,6/6/2022,Roch Jovic
+421,house,893741.8,3,2,545,1903,Suite 23,6/28/2020,Fabiano Jandac
+422,apartment,128295.06,1,2,3251,1974,Apt 1360,11/20/2020,Roscoe Feldmark
+423,house,953321.59,3,4,4876,1937,Suite 50,10/6/2020,Theressa Pilsworth
+424,house,251774.97,3,2,4742,1976,Room 1608,9/5/2022,Nikolos Kinavan
+425,condo,689010.54,3,2,4669,2010,Suite 90,3/24/2020,Dagny Cuskery
+426,townhouse,701546.05,3,3,624,1971,PO Box 31969,12/6/2020,Weidar Crichmer
+427,townhouse,883063.51,1,2,3817,1943,Room 128,12/15/2020,Lonna Mahaffey
+428,apartment,147681.75,2,4,1756,1981,Room 188,3/25/2020,Maressa Mudie
+429,townhouse,539769.21,3,1,1280,2010,Suite 39,2/11/2020,Tresa Neeson
+430,apartment,480325.36,3,3,1302,2021,Suite 91,8/24/2020,Pren Vedikhov
+431,condo,280724.83,4,3,2874,1936,Apt 1782,12/9/2020,Loria McKeurtan
+432,townhouse,963492.57,3,1,3958,1986,PO Box 46160,1/13/2021,Lazar Ballach
+433,townhouse,987789.32,1,2,4468,1996,PO Box 755,12/3/2020,Kele Pozzi
+434,townhouse,846186.65,3,4,3301,1969,Room 1461,9/17/2021,Gardie Oldham
+435,condo,523150.73,4,2,2246,2018,PO Box 7252,3/22/2022,Cymbre Abramovitch
+436,house,397306.72,3,3,2085,1962,Suite 57,4/25/2020,Brenn Fortman
+437,townhouse,691640.25,3,3,2021,1952,Suite 56,12/19/2020,Stacy Stonelake
+438,house,321332.1,1,1,2289,1921,Suite 44,3/21/2022,Johnath Kinglake
+439,condo,204528.69,5,4,538,1956,Apt 459,8/19/2022,Cosmo Gerald
+440,apartment,588729.05,3,2,2601,1978,Apt 1148,5/1/2021,Delainey Van den Bosch
+441,townhouse,697706.87,4,3,3770,1943,Apt 12,1/13/2020,Cal Inglese
+442,house,527630.81,4,2,2567,2008,PO Box 6389,4/7/2021,Eleni Loines
+443,house,808281.42,3,2,3879,1930,Suite 89,1/26/2022,Henri Gwinnel
+444,condo,329472.25,4,4,3227,2006,Suite 66,8/27/2020,Fanchette Lukash
+445,house,742292.79,1,2,3853,1995,18th Floor,6/26/2020,Sheba Iacovucci
+446,townhouse,933472.93,1,4,1362,2011,Room 941,10/5/2020,Cassaundra Robillart
+447,apartment,796235.0,1,1,3748,1948,Apt 1053,9/14/2022,Dee dee Deaconson
+448,house,476346.51,4,1,2239,1969,Apt 589,9/14/2021,Lory Morforth
+449,house,395144.42,3,4,4760,1978,Room 1065,6/7/2020,Gavra Antecki
+450,house,720411.19,5,2,2224,1940,Suite 21,8/4/2020,Thadeus La Vigne
+451,townhouse,440522.51,2,3,4668,1965,Room 325,6/25/2021,Min Balogun
+452,condo,968595.83,1,4,2143,2014,Apt 95,3/29/2021,Rubie Cowern
+453,townhouse,875184.51,5,3,3400,1963,Apt 1188,4/7/2021,Toma Amer
+454,apartment,915629.67,3,2,3531,2011,Apt 261,11/8/2021,Ottilie Metcalfe
+455,apartment,396725.12,3,3,610,1988,Suite 28,7/23/2021,Damian Pontin
+456,condo,895832.53,4,2,2365,1917,Room 34,6/26/2020,Etty Snoddy
+457,apartment,156351.65,3,1,4183,1919,Suite 64,6/28/2022,Alastair Balaisot
+458,house,762635.79,2,1,1691,1929,PO Box 86998,11/29/2021,Charlotte O'Kennavain
+459,townhouse,807916.96,5,3,4530,1925,PO Box 3129,2/22/2020,Sibbie Claque
+460,house,645511.91,5,4,3597,1905,Room 1635,2/12/2020,Godart Dresche
+461,townhouse,976763.07,2,4,819,1910,Suite 56,7/10/2021,Bradly Kyncl
+462,apartment,330264.74,2,1,3673,2011,Room 796,8/12/2021,Newton Carlin
+463,condo,137281.48,2,4,1050,1973,Room 134,4/16/2020,Linet Cawthorne
+464,townhouse,642086.75,3,1,2495,1911,8th Floor,7/25/2020,Thom Dowsing
+465,condo,608815.62,5,3,1304,1993,Apt 197,2/23/2020,Christa Cowlas
+466,condo,979036.26,5,1,518,1928,Room 1212,12/28/2022,Dora Grave
+467,condo,115271.03,3,3,4051,2022,Room 688,3/6/2020,Keefer Bloss
+468,house,578258.41,3,1,632,1959,Suite 52,11/29/2021,Rosana Elphick
+469,house,271245.09,3,3,4422,1965,Apt 1186,5/1/2020,Allene Woolbrook
+470,apartment,948532.38,5,4,2215,1919,PO Box 39496,8/21/2021,Langsdon Gosney
+471,condo,876811.17,1,3,3142,1930,8th Floor,2/8/2020,Franzen Kuhlmey
+472,house,161489.37,4,1,3466,1999,Apt 1659,4/27/2022,Simonette Crockett
+473,house,579304.68,3,1,3906,1975,Room 1810,4/11/2022,Milka Jovicic
+474,townhouse,776741.77,4,2,1719,1920,Apt 319,4/19/2021,Orsa Graalmans
+475,house,443083.8,5,4,1979,1926,PO Box 33105,4/28/2022,Grace Dudin
+476,house,838872.06,3,3,1981,1997,Room 87,10/18/2020,Ransell Hefforde
+477,condo,209604.69,5,4,4103,1941,12th Floor,7/17/2021,Delmor Londors
+478,townhouse,198826.37,2,3,2238,1960,Apt 509,12/11/2022,Udall Petrovykh
+479,apartment,530755.81,5,1,2376,2020,Suite 92,12/14/2020,Cherianne Muro
+480,townhouse,448425.02,4,2,2161,1935,Room 1993,3/17/2021,Ainslee Buglass
+481,condo,621095.67,4,2,2012,2018,Suite 67,2/10/2022,Anabella Bernakiewicz
+482,townhouse,572788.51,2,2,938,1936,PO Box 8632,6/8/2021,Aubrie Verey
+483,house,522707.79,5,4,4438,1937,1st Floor,4/14/2020,Renato Muggleton
+484,house,240253.77,2,1,1043,1933,Room 1611,8/25/2022,Valeria Michallat
+485,house,599157.79,3,1,3668,1937,Apt 1363,8/9/2022,Ardelle Birkmyre
+486,house,438327.48,1,2,1975,2005,Room 997,12/23/2021,Lorrie Straun
+487,apartment,677707.73,2,3,2676,2019,PO Box 78022,12/19/2020,Chandler Ruddlesden
+488,apartment,522776.26,5,3,4680,2009,Suite 51,10/14/2020,Magnum Hards
+489,house,138348.97,5,3,2657,1986,5th Floor,8/27/2021,Carley Yielding
+490,townhouse,994143.39,1,4,3309,2014,Apt 794,2/23/2022,Patrick Touret
+491,apartment,455736.29,4,2,1117,1986,Suite 70,11/24/2021,My Filon
+492,apartment,879593.99,5,4,1873,1913,Apt 254,5/31/2022,Michaela Benam
+493,townhouse,588929.21,5,2,2322,1943,Apt 1119,6/17/2020,Lyndell Clewley
+494,house,675102.8,2,2,3674,2006,Apt 1963,3/4/2021,Kennie Toogood
+495,townhouse,691971.57,5,1,3869,1984,12th Floor,1/17/2021,Dolph Rennels
+496,apartment,247035.16,2,1,3910,1923,Room 733,8/24/2020,Saxe Bech
+497,apartment,188673.84,3,1,3391,1917,PO Box 22706,7/10/2020,Rodolfo Leonard
+498,condo,217055.44,4,1,1437,1995,17th Floor,3/18/2021,Con Farrent
+499,apartment,811618.16,3,1,4280,1972,PO Box 82206,12/13/2022,Blinny Le Friec
+500,townhouse,855389.06,4,3,1363,1986,Room 577,5/6/2020,Lita De Mitri
+501,apartment,443308.29,5,4,815,1903,Apt 1747,10/2/2020,Sharon Streater
+502,townhouse,400196.86,1,2,1726,2022,Room 1280,5/10/2020,Rhonda Parmer
+503,apartment,272708.87,2,2,4512,1923,Suite 78,8/1/2020,Fayette Mattingson
+504,condo,726738.03,5,3,727,1991,16th Floor,10/14/2020,Danie Hebbes
+505,townhouse,463246.06,4,2,2877,1928,Room 1410,3/22/2020,Lona Grattage
+506,condo,294666.83,5,1,1624,1941,Suite 69,6/21/2020,Avery Loch
+507,apartment,918785.81,3,1,4400,1928,4th Floor,9/16/2021,Anna-diane Gillise
+508,house,531887.33,3,2,1359,1934,PO Box 50607,11/3/2020,Kerrill Norssister
+509,apartment,751891.15,2,1,3195,1927,PO Box 44850,1/28/2020,Bing Ducket
+510,house,994218.24,5,3,4136,1931,Room 1088,12/25/2022,Mariette McGonnell
+511,condo,914580.99,4,1,1217,1985,Suite 4,9/16/2022,Whitaker Dudlestone
+512,house,536323.49,5,4,3036,2000,PO Box 31256,11/23/2020,Gardner Leijs
+513,condo,877343.13,1,2,4387,1932,Room 530,7/13/2021,Simmonds Petteford
+514,condo,377715.99,4,3,2041,1970,Room 388,9/4/2022,Beatrisa Duddell
+515,apartment,840771.83,2,3,4613,1910,Suite 62,8/7/2021,Roze Lofthouse
+516,apartment,954827.64,3,3,527,2011,Suite 50,10/22/2020,Shelton Snaith
+517,house,526506.55,4,3,3734,1914,PO Box 41732,1/18/2020,Maryjo Shaw
+518,house,796287.73,2,4,1780,2008,Suite 34,7/22/2020,Darrin Binnall
+519,condo,194139.52,1,2,4853,2000,Apt 1120,8/29/2022,Peterus McClary
+520,apartment,730558.95,2,3,3483,1912,Apt 431,7/20/2022,Edna Acuna
+521,townhouse,849992.67,2,4,4386,1945,2nd Floor,3/9/2022,Stephine Pheasant
+522,house,741238.15,3,1,3363,1946,Apt 532,11/12/2021,Salome De Filippi
+523,apartment,639055.0,1,4,3850,1963,Suite 19,12/7/2020,Annetta Orteau
+524,condo,319852.78,2,2,1400,1933,Room 1715,7/7/2022,Teddy Lakin
+525,townhouse,476134.63,3,3,1942,1914,Suite 61,4/9/2022,Maureene Duffer
+526,townhouse,108279.78,3,1,4816,1973,PO Box 12537,6/9/2021,Nerta Benedite
+527,condo,159606.98,2,4,853,2007,PO Box 49617,11/3/2022,Shaylyn Twinterman
+528,townhouse,664937.3,2,3,2535,2004,Suite 1,6/7/2021,Tandie McGinnis
+529,apartment,780955.18,4,4,2311,1936,Suite 66,7/20/2020,Camala Bockler
+530,house,483216.07,5,1,4206,2000,Apt 1222,11/9/2020,Pernell Astall
+531,townhouse,443035.89,3,3,4448,2020,Suite 66,2/26/2022,Tannie Gregorio
+532,house,829893.72,3,3,4194,1944,Suite 21,11/26/2022,Nanci Bridge
+533,apartment,467638.2,2,1,3656,1915,PO Box 33859,5/7/2021,Nanon Couve
+534,condo,257762.01,4,4,2703,2005,Apt 1672,3/4/2020,Valle Pywell
+535,house,827002.36,1,4,1990,1968,Apt 298,5/4/2021,Anetta McCrachen
+536,house,931035.23,2,3,4457,1997,Room 534,8/10/2022,Agnesse Stirzaker
+537,townhouse,490893.78,1,4,911,1935,Suite 29,3/28/2020,Marrissa Scading
+538,townhouse,645978.21,2,1,3364,2016,Suite 59,6/28/2020,Hanny Itschakov
+539,condo,615273.86,2,2,3443,1914,1st Floor,4/5/2020,Fabian Megarrell
+540,townhouse,756897.02,5,2,2029,1926,18th Floor,1/6/2021,Karlee Laurance
+541,townhouse,444775.11,1,2,2058,1974,PO Box 99981,12/8/2021,Barnard Radden
+542,townhouse,868912.87,3,4,4954,1901,Apt 869,7/7/2022,Valdemar Drohan
+543,apartment,930264.51,3,1,2060,1966,Apt 3,12/20/2020,Dion Thaim
+544,townhouse,994730.94,4,1,2340,1918,15th Floor,9/18/2020,Hoyt Lambricht
+545,house,409505.08,5,2,4007,1929,Suite 59,11/13/2022,Devin Conaghy
+546,condo,455476.41,3,1,1654,1924,Apt 416,3/18/2020,Gerardo Fetherstonhaugh
+547,house,906191.41,2,2,673,1968,Suite 54,9/4/2021,Gerhardt Padley
+548,townhouse,599931.83,3,3,745,1977,PO Box 12988,5/1/2020,Irina Paddie
+549,condo,764480.92,4,2,3338,1978,Suite 33,6/19/2021,Gabriello Wilsdon
+550,condo,239791.34,5,4,1298,1968,Suite 41,8/1/2020,Ann-marie Gartrell
+551,house,711641.12,4,3,2019,2006,Room 695,8/10/2020,Delia Bennie
+552,house,246276.63,5,4,4247,1900,Apt 557,8/17/2020,Egor Yeskov
+553,house,727452.65,5,1,2704,1993,PO Box 24320,2/13/2020,Prue de Merida
+554,house,226916.32,1,2,620,1962,PO Box 18012,3/10/2021,Hanna Mathely
+555,townhouse,237213.72,4,4,2262,1938,Room 616,5/9/2021,Teddie Skures
+556,house,833488.84,2,2,1976,1918,Suite 88,5/30/2021,Vivien Liggens
+557,house,912112.06,5,4,1318,1911,3rd Floor,11/14/2021,Bobina Willeson
+558,condo,695566.53,4,1,3704,1988,Room 1510,6/10/2021,Ardelle Sone
+559,apartment,671254.74,5,1,4318,1900,PO Box 35506,7/12/2021,Jo ann Waller-Bridge
+560,townhouse,371802.88,4,2,1554,2001,Suite 59,7/20/2020,Sylas Provis
+561,condo,678033.89,3,4,2710,2001,Apt 1795,6/15/2022,Olva Paddle
+562,house,806102.96,2,2,811,1925,Room 1192,8/16/2021,Den Streater
+563,townhouse,403212.2,2,4,799,2005,Suite 32,1/11/2020,Harli Gonet
+564,townhouse,722365.51,1,1,1518,2014,Suite 37,9/24/2021,Morey Pentycross
+565,apartment,438721.17,3,3,2572,1917,PO Box 71401,2/19/2021,Daryle Tennet
+566,townhouse,680967.27,1,2,3546,1933,Room 435,6/28/2020,Robinia Aleshkov
+567,condo,280709.45,3,1,2637,2015,Room 744,1/28/2022,Marven Cozzi
+568,condo,668161.17,2,4,4429,1994,PO Box 34498,5/18/2022,Marylynne Lewerenz
+569,townhouse,861279.65,4,2,3837,1986,PO Box 43851,7/28/2021,Kile Beaumont
+570,apartment,916119.49,5,3,3129,1931,2nd Floor,2/5/2022,Kettie Sybe
+571,apartment,404448.24,1,2,3835,2021,Room 365,7/11/2022,Sheilah Vasilov
+572,house,368918.69,2,3,4837,2003,Apt 1965,11/19/2020,Jamil Wines
+573,house,151616.85,5,1,4898,2018,Apt 554,6/24/2020,Avie Skillern
+574,apartment,948319.45,2,3,4619,1970,Apt 1726,10/18/2022,Bard Dory
+575,condo,478906.42,1,1,1659,1983,11th Floor,1/19/2021,Belle Danes
+576,apartment,775502.93,3,3,3769,1906,Suite 81,12/13/2020,Fax Mompesson
+577,townhouse,585305.97,1,4,4787,1909,Room 1733,12/25/2021,Hali Fante
+578,house,513088.83,4,2,940,2016,Room 1587,4/20/2021,Scarlet Children
+579,condo,639684.99,2,1,2766,1958,Suite 99,12/19/2021,Kirk Barnaby
+580,townhouse,191384.2,2,1,2222,1990,Apt 600,12/12/2021,Bebe Croce
+581,apartment,849091.71,4,2,788,1977,Room 1562,3/11/2022,Deerdre Danelut
+582,townhouse,842192.72,1,3,580,1946,PO Box 41781,8/21/2022,Jervis Lovel
+583,condo,321288.64,4,2,1450,1916,Suite 56,9/6/2021,Koenraad Blaxall
+584,house,223004.57,2,1,1316,1969,Room 1626,12/23/2020,Melissa Seabon
+585,condo,343857.64,5,3,3959,1917,PO Box 32380,2/1/2021,Waldemar Giddings
+586,townhouse,203464.57,2,3,4978,1906,15th Floor,8/15/2022,Morris Simester
+587,apartment,467412.34,3,2,2815,1986,Apt 1544,10/8/2020,Andeee Inglefield
+588,house,341538.6,2,3,3450,1970,Room 935,9/13/2020,Frederich Banasiak
+589,apartment,318153.28,3,2,543,1947,Suite 70,5/31/2020,Cherry McHan
+590,house,938147.28,2,4,1988,1960,Apt 83,12/9/2020,Darline Booth
+591,condo,107640.21,2,1,3569,1940,Apt 37,5/27/2021,Elwyn Botterill
+592,condo,218771.08,1,1,2508,1988,Apt 1159,1/22/2020,Aryn Crusham
+593,apartment,836024.09,1,4,3648,1916,Room 1710,11/9/2020,Wendeline Harkus
+594,townhouse,545181.71,5,4,3562,2008,Room 666,2/4/2022,Myrta Neising
+595,house,162981.69,4,2,3016,1916,PO Box 99346,1/9/2022,Enoch Swatheridge
+596,townhouse,426192.54,5,4,1388,1900,9th Floor,11/14/2020,Orville Fenimore
+597,townhouse,986977.26,4,4,4268,1922,Apt 818,11/6/2022,Agace Jacob
+598,townhouse,110493.36,2,1,1323,1993,PO Box 63774,3/1/2020,Valerie Bunt
+599,apartment,957019.22,1,4,1206,2005,PO Box 10155,10/13/2022,Bab Gosnoll
+600,apartment,770316.66,3,2,4134,2015,Apt 1901,4/21/2020,Blondelle Fleming
+601,townhouse,738123.01,5,2,644,1921,Apt 91,5/8/2021,Rora Everard
+602,apartment,998802.34,2,1,1258,1905,Apt 195,1/28/2020,Raquel Twigge
+603,apartment,733805.83,1,2,2461,1979,20th Floor,7/22/2022,Ezechiel Boarleyson
+604,townhouse,963205.04,1,1,786,1915,Apt 1862,4/15/2022,Schuyler Kleiser
+605,apartment,410877.6,1,3,1484,2005,Suite 89,6/21/2022,Cordula Kleinsmuntz
+606,house,358423.66,4,2,2597,1988,18th Floor,8/28/2022,Duffie Bellison
+607,condo,422905.37,4,1,1398,2015,PO Box 69494,11/13/2022,Johan Le Teve
+608,townhouse,555382.18,5,3,3279,1950,9th Floor,10/16/2022,Dag Stonelake
+609,apartment,252448.21,3,1,3523,1960,PO Box 80759,12/24/2021,Amity Minet
+610,townhouse,391092.96,5,3,3188,1995,PO Box 50200,2/22/2020,Germayne Dundon
+611,house,345820.8,5,4,866,1936,PO Box 19886,8/3/2021,Michelle Kirstein
+612,apartment,484555.28,1,4,4567,1978,Apt 1567,7/3/2021,Gabriela Paler
+613,townhouse,713957.21,5,1,741,2020,Apt 357,3/18/2021,Howie Elnaugh
+614,townhouse,631327.75,4,4,4510,1997,Room 1455,7/9/2021,Griff Boldt
+615,condo,685449.62,4,4,3710,1948,Suite 88,3/23/2020,Rona Dinwoodie
+616,condo,277159.36,3,2,3591,1910,PO Box 13628,12/19/2020,Ynes Halsey
+617,townhouse,820305.5,3,2,718,1981,Apt 1085,2/13/2022,Ernestine Rassell
+618,condo,620032.19,1,2,3680,1930,Room 809,3/20/2022,Cinda Farnworth
+619,house,907876.42,4,4,1904,1915,Suite 52,7/18/2020,Tabby Bettinson
+620,house,313636.71,4,2,649,1995,PO Box 6976,4/9/2021,Siana Castan
+621,house,143609.07,3,1,3860,1961,8th Floor,8/21/2022,Hamil Comley
+622,apartment,601868.16,3,3,2582,1929,Apt 292,7/16/2021,Ash Northgraves
+623,condo,484232.65,1,1,2271,1979,Suite 21,10/16/2021,Tiff Havelin
+624,apartment,204271.94,4,3,2219,1930,Suite 20,8/25/2020,Rebekkah Echalier
+625,condo,391858.21,3,2,3698,1968,Suite 25,7/31/2021,Antonin Causby
+626,house,131522.47,1,3,4999,1944,Suite 34,11/11/2022,Malinda Ramelot
+627,apartment,124770.19,2,2,3340,1997,Room 1264,6/22/2021,Anthony Wawer
+628,house,400458.68,5,1,1140,1928,PO Box 42023,3/27/2021,Farlay Allicock
+629,house,487834.72,2,1,3965,2004,Apt 1683,10/7/2021,Tamar Ellington
+630,house,211122.12,3,1,4962,1915,Room 1337,3/18/2020,Livy Wadley
+631,house,939180.42,2,3,3593,2001,Room 1110,11/18/2020,Fonz Slamaker
+632,apartment,913677.42,1,4,2465,1942,Room 1696,3/26/2021,Lemmy Simonich
+633,condo,818179.02,4,4,1890,2014,10th Floor,6/29/2021,Anica Hassin
+634,condo,246222.0,2,1,3976,1959,1st Floor,4/11/2022,Maryanne Gounot
+635,townhouse,373730.55,4,4,2122,1905,Suite 64,10/18/2022,Crystal Andreasson
+636,house,484353.98,5,2,2344,1919,1st Floor,9/20/2021,Jarrid Blader
+637,townhouse,568403.66,4,4,4848,1913,Suite 19,3/1/2020,Nappie Anthona
+638,townhouse,866116.54,1,4,3943,2017,PO Box 53677,6/6/2021,Giacomo Habbert
+639,house,587234.72,5,2,594,1953,9th Floor,1/22/2021,Baron Whiles
+640,condo,141740.18,4,1,1172,1990,Apt 177,7/14/2020,Bordie McLane
+641,condo,465077.58,2,4,4775,1953,1st Floor,7/3/2020,Arlina Penner
+642,house,942392.75,2,1,3649,1979,PO Box 53454,5/3/2022,Kailey De Benedetti
+643,townhouse,496257.77,4,4,2366,1972,PO Box 10209,3/20/2022,Johnnie De la Feld
+644,condo,604624.73,2,2,3975,2007,Apt 1430,7/12/2022,Staci Hobbert
+645,condo,888158.85,2,2,4455,1992,PO Box 16200,7/13/2022,Ranna Pyper
+646,condo,508794.05,5,2,2332,1959,Suite 57,10/10/2020,Lorri Chant
+647,apartment,832624.82,4,4,3292,1939,Apt 360,4/27/2021,Brook Nayer
+648,townhouse,363319.55,4,2,1100,1984,Room 467,4/26/2021,Babs Oxherd
+649,condo,181686.42,3,3,949,1959,Apt 118,6/5/2020,Honey Stickells
+650,apartment,889540.45,4,3,4756,1926,Room 168,4/30/2021,Muhammad Crowche
+651,house,180748.95,2,2,1752,1967,PO Box 38796,4/11/2021,Ediva Kolakovic
+652,apartment,144112.05,2,1,4956,1961,PO Box 32130,1/12/2021,Eddi Batchelar
+653,house,217977.76,2,1,2351,1993,Room 532,2/24/2020,Herculie Raynard
+654,house,878039.12,3,2,3257,1902,PO Box 22816,3/31/2022,Fletch Sate
+655,condo,474421.01,1,2,4995,1932,Suite 100,7/2/2021,Zed Gartell
+656,apartment,815463.43,1,3,1630,2020,Apt 1479,11/23/2020,Burtie Figiovanni
+657,apartment,549537.02,5,1,4960,1952,Apt 1649,2/24/2022,Dulsea Jarry
+658,apartment,330092.38,5,2,2653,1998,PO Box 89502,6/24/2020,Nissa Hollingsby
+659,house,122863.03,4,2,2186,1975,PO Box 48922,12/4/2022,Izak Rottcher
+660,condo,620683.74,4,4,2611,2018,16th Floor,10/8/2022,Israel Turbat
+661,condo,661555.46,4,3,2843,1941,Suite 68,12/28/2022,Keeley Fardoe
+662,townhouse,339091.91,4,1,3350,1913,Room 807,6/13/2020,Bonni Poge
+663,apartment,445126.52,2,2,4334,1988,PO Box 56646,7/13/2020,Barr Uphill
+664,apartment,945709.72,1,3,775,2016,Room 1332,7/1/2020,Timi Galliver
+665,townhouse,868609.82,5,4,2958,1945,1st Floor,12/9/2020,Adrian Karolowski
+666,house,666608.67,4,2,2918,2017,18th Floor,9/17/2021,Florida Bradneck
+667,townhouse,995103.06,3,2,3642,2014,PO Box 38314,3/11/2020,Phillipp Cahan
+668,apartment,169902.09,2,2,1628,1946,Room 891,4/15/2022,Marika Hext
+669,house,766360.61,1,4,1541,1936,Room 323,9/21/2022,Nata Fritter
+670,apartment,712803.9,2,4,4443,1956,PO Box 60195,9/28/2022,Chaddie Stannis
+671,house,117098.94,4,2,4668,1932,Room 175,12/15/2022,Rea Romanini
+672,apartment,817428.86,4,2,1050,1929,12th Floor,11/19/2021,Constantia Burnes
+673,townhouse,701810.81,1,1,1388,1918,PO Box 37634,7/9/2020,Hercules Leisman
+674,apartment,833482.14,5,1,3237,1911,18th Floor,12/25/2020,Vikky Le Fevre
+675,house,985450.89,1,2,1329,1900,Room 1695,6/8/2021,Nanci Goldthorpe
+676,townhouse,642899.45,2,2,1754,1985,Apt 1067,3/7/2021,Gabriela Kirgan
+677,apartment,739926.1,3,4,3361,2006,Room 146,2/12/2022,Michael Leonard
+678,house,927256.45,1,1,3375,1912,11th Floor,5/27/2022,Kimberly Enoksson
+679,townhouse,946850.95,5,4,3844,1920,Apt 1895,1/7/2021,Alessandra Fisby
+680,condo,416648.13,5,3,4598,1941,Suite 32,10/24/2022,Bethany Vakhonin
+681,house,176453.94,5,4,4004,2004,3rd Floor,11/23/2021,Abelard Cainey
+682,condo,674175.79,4,4,3729,1926,Room 1471,11/18/2021,Gustave Kopke
+683,townhouse,885535.66,4,3,582,1950,Suite 41,9/17/2021,Arlen Ledgister
+684,condo,250162.81,4,4,2757,1979,4th Floor,8/30/2022,Lesley Pimer
+685,condo,374002.96,1,2,4394,1913,PO Box 861,4/18/2021,Artemis Couling
+686,apartment,339049.93,5,4,1098,1918,Suite 28,1/26/2020,Fabe Tombling
+687,townhouse,247253.0,2,4,1679,1958,Apt 6,4/27/2022,Odey Flintiff
+688,condo,217249.29,5,1,580,1915,Suite 42,7/30/2022,Jonah Sorsby
+689,townhouse,859010.12,1,2,4230,2004,Suite 73,5/27/2021,Courtney Iacobucci
+690,condo,783959.55,5,4,3060,2002,Room 1981,5/2/2021,Zorah Garvill
+691,house,457199.02,5,1,4679,1915,PO Box 55487,1/4/2022,Maritsa Douthwaite
+692,house,621791.06,2,2,3882,1987,Apt 797,10/2/2022,Valida Demetr
+693,apartment,353975.6,2,1,4607,1943,Apt 581,12/10/2021,Chastity Japp
+694,apartment,568749.44,1,2,4737,2019,17th Floor,9/24/2022,Donal Futcher
+695,house,393532.86,1,4,4651,1936,13th Floor,1/16/2021,Amy Stolle
+696,condo,838471.42,4,2,690,1938,Room 1594,6/15/2021,Tiffy Skae
+697,house,700441.33,3,2,3174,1996,PO Box 77387,5/4/2020,Jameson Ganning
+698,townhouse,969712.09,5,4,4362,1934,4th Floor,8/3/2021,Karmen Smallpeice
+699,townhouse,729785.87,4,3,3072,1942,PO Box 12078,1/16/2022,Karmen Alessandrini
+700,apartment,960057.09,4,1,3832,1991,PO Box 55662,7/3/2020,Gerrilee Bartlomiej
+701,condo,998096.29,3,2,1306,1924,PO Box 98901,10/4/2021,Colet Velte
+702,condo,704734.78,5,1,3251,2021,Apt 648,9/24/2021,Eadith Synnot
+703,house,641165.54,1,2,2255,1945,Suite 83,10/22/2022,Aubrie Stelljes
+704,townhouse,871875.83,1,4,1062,1952,PO Box 45413,2/9/2020,Annabela Crepel
+705,house,328141.35,4,2,3617,1973,Apt 738,10/14/2020,Natka Byllam
+706,townhouse,588750.57,1,4,2856,2004,Room 1764,11/2/2021,Ginnie Casetta
+707,condo,627085.38,5,4,3366,2003,14th Floor,8/31/2022,Blinni Mulqueeny
+708,condo,631648.52,5,3,4369,1996,Room 254,6/4/2022,Huntlee Carthy
+709,condo,709690.47,3,2,1611,1972,14th Floor,6/13/2022,Antonio Dake
+710,house,874298.77,5,4,4789,1909,Suite 59,5/2/2021,Zena Rumsey
+711,condo,588310.21,2,2,1060,1927,Room 165,11/29/2021,Bess How
+712,townhouse,708365.11,5,2,889,1937,Suite 26,12/6/2022,Feliza Hilland
+713,house,197676.41,5,4,4378,1914,Suite 54,8/9/2022,Iolande Amiable
+714,house,682029.72,4,4,2936,1931,6th Floor,12/5/2022,Ilario Bowes
+715,townhouse,528041.45,5,2,3571,2011,Apt 1269,3/18/2020,Phylys Aronowitz
+716,apartment,285007.93,5,1,1759,1938,Room 1948,6/12/2022,Arne Lamplugh
+717,apartment,320781.4,1,1,3838,1949,Apt 1983,8/14/2020,Renard Duly
+718,apartment,906753.35,1,1,2086,1982,Room 1774,11/30/2021,Verne Sotworth
+719,house,979822.94,1,1,3559,1922,Suite 13,4/13/2020,Garrett McNutt
+720,townhouse,224908.44,3,4,2805,1925,Suite 62,8/26/2021,Joanie Niblett
+721,apartment,564719.32,2,3,2206,1929,Apt 483,12/31/2021,Kassie Spray
+722,apartment,277671.08,4,3,4300,1907,Apt 1379,5/20/2021,Jenine Santarelli
+723,apartment,344011.2,1,1,1949,2012,Room 1602,3/2/2022,Trefor Peasegod
+724,condo,749347.91,1,1,3351,1993,Room 659,8/21/2020,Clem Kmiec
+725,apartment,650327.5,3,2,2937,1940,11th Floor,6/6/2020,Tymothy Syder
+726,condo,272457.77,4,4,1965,2021,Apt 435,11/6/2021,Arlin Hechlin
+727,house,810911.25,3,3,3880,1950,12th Floor,12/20/2022,Davie Guy
+728,condo,891600.08,1,1,1702,1997,Apt 13,6/21/2022,Reinold Malt
+729,condo,151912.33,5,1,1689,1908,1st Floor,8/30/2021,Chandler Creighton
+730,townhouse,911420.58,2,3,4445,2012,1st Floor,2/21/2021,Michel Sherston
+731,townhouse,525695.87,4,3,4308,1974,13th Floor,9/29/2020,Benedetta Varvell
+732,house,495443.11,2,2,774,1942,Apt 547,1/7/2020,Roderic Drohan
+733,apartment,421038.56,1,3,4422,2020,PO Box 76325,12/6/2021,Dian Tolson
+734,house,986361.13,2,1,1005,1937,8th Floor,10/7/2021,Yuri Roder
+735,condo,534329.39,5,3,2413,1969,PO Box 63995,10/12/2020,Kissiah Bigadike
+736,apartment,499455.26,3,3,2107,2022,Apt 150,7/25/2022,Hamish Broome
+737,condo,594036.31,2,1,1472,1924,Suite 87,5/14/2022,Victoir Calterone
+738,condo,201067.58,3,3,3063,1913,1st Floor,4/18/2022,Theo Radbond
+739,townhouse,637705.73,5,4,2319,1939,PO Box 2025,11/3/2021,Fawn Bratton
+740,apartment,907263.33,4,1,3456,1903,1st Floor,6/29/2020,Archibald Ing
+741,house,920480.18,4,4,3494,1942,3rd Floor,3/19/2022,Llewellyn Khalid
+742,condo,380305.9,5,3,1752,1959,Suite 2,6/21/2022,Danie Piser
+743,condo,426253.11,3,3,1171,1906,Room 1984,1/5/2022,Elyssa Crandon
+744,townhouse,587353.57,1,2,2107,1958,17th Floor,6/15/2022,Izabel Kelsell
+745,townhouse,428299.68,4,2,4061,1954,Apt 1207,9/20/2021,Justino Clouter
+746,condo,226430.53,5,3,2807,1904,Suite 31,8/16/2021,Rafaelia Blight
+747,apartment,598516.76,2,2,1166,1945,Suite 58,4/7/2022,Danielle Daintrey
+748,house,113730.46,5,2,2436,1922,Apt 233,5/8/2021,Louella Kealy
+749,condo,335050.9,3,4,2175,1944,Apt 1024,1/8/2020,Brendan Ankrett
+750,condo,186224.65,4,1,1874,1909,Apt 412,2/20/2022,Madalyn Ribchester
+751,apartment,214377.55,5,4,3544,1917,10th Floor,5/17/2020,Dari Ricco
+752,house,617671.56,3,4,1396,1941,14th Floor,10/2/2021,Faber Casado
+753,condo,970216.73,4,4,2459,1988,Suite 49,2/25/2021,Link Yukhnin
+754,townhouse,720956.08,1,4,2633,1947,Room 536,5/24/2022,Ax Peakman
+755,house,518334.65,5,2,4733,2016,PO Box 65199,7/12/2020,Dorothy Sedgemond
+756,condo,271229.52,3,2,4790,1923,14th Floor,9/28/2022,Irita O'Brogane
+757,condo,500586.19,5,3,3295,1983,Apt 1587,12/10/2020,Odelle Dummett
+758,townhouse,729757.24,1,4,1697,1903,PO Box 54810,5/12/2020,Ker Spalding
+759,condo,370340.21,3,4,3094,2022,Apt 930,8/22/2020,Bartolemo Elsom
+760,apartment,554365.47,2,2,2425,2007,PO Box 53845,8/10/2020,Ray Drohan
+761,townhouse,819628.85,2,3,790,1970,Room 789,11/27/2022,Dame Busk
+762,townhouse,277935.65,5,4,2069,1964,PO Box 193,12/3/2022,Roxine Goodyear
+763,townhouse,230564.88,4,2,2945,2012,11th Floor,9/8/2022,Maryanna Bembrick
+764,apartment,820872.6,3,2,2704,1928,18th Floor,5/28/2022,Marti Greeves
+765,condo,870076.12,2,1,2451,1921,Room 597,8/30/2020,Rhona Koubek
+766,house,135687.01,5,2,4087,1951,PO Box 6528,4/17/2021,Jannel Shinefield
+767,condo,924966.93,3,4,4628,1914,Room 55,8/28/2021,Eydie Baraja
+768,townhouse,456874.58,5,1,3613,2004,Apt 341,5/26/2021,Gwennie Putton
+769,townhouse,317691.89,4,1,2697,2006,14th Floor,7/22/2022,Jarad Gother
+770,apartment,119470.94,5,2,2686,1996,17th Floor,5/22/2020,Penrod Logsdale
+771,townhouse,584385.49,5,1,792,1930,Room 1642,10/22/2022,Kimmi Dodds
+772,house,597098.17,2,2,2073,1945,Apt 1310,5/2/2020,Wade Coburn
+773,apartment,879860.04,1,3,1986,2022,Apt 1314,11/7/2020,Esther Cleft
+774,townhouse,373316.33,3,1,4687,1951,PO Box 34850,1/6/2021,Angela Dewey
+775,apartment,432873.77,2,2,2300,1931,Suite 22,12/9/2021,Inglis Weson
+776,house,948160.86,1,2,3646,1939,9th Floor,8/8/2022,Omar Bestman
+777,condo,467465.43,5,2,1623,2008,Room 299,4/21/2022,Petr Brunker
+778,condo,133440.46,2,4,2910,2018,Suite 68,9/26/2020,Dietrich Hunn
+779,townhouse,469859.49,5,4,1743,1994,Suite 9,3/1/2022,Alissa Oughtright
+780,house,247180.6,5,2,1834,1962,1st Floor,9/13/2020,Palmer Hickenbottom
+781,apartment,618844.35,1,1,4495,2004,Apt 148,11/28/2021,Elysia Rutgers
+782,townhouse,169198.63,5,4,4384,1915,Room 696,5/15/2020,Giovanni Hazelby
+783,townhouse,651300.84,3,3,3559,1943,9th Floor,6/17/2020,Nick Felderer
+784,house,172902.46,1,4,993,1977,Room 498,11/17/2022,Lenore Perrot
+785,house,198995.54,5,1,1454,1965,20th Floor,4/30/2021,Efren Dislee
+786,townhouse,248016.6,5,4,2899,1981,PO Box 67518,8/23/2020,Der Dreschler
+787,townhouse,256049.06,5,1,4763,1907,Apt 937,12/17/2020,Lionello Cantrell
+788,house,313172.16,3,1,2128,2003,PO Box 12080,2/2/2021,Stacee Vasyukov
+789,condo,841651.79,3,1,2547,1945,Apt 825,5/13/2022,Tedra Causnett
+790,apartment,708017.43,3,4,1982,1949,Room 592,6/14/2022,Duane O'Glessane
+791,house,933026.93,4,1,2663,1926,Suite 74,8/24/2020,Fabian Tench
+792,apartment,582161.3,2,3,2558,2001,Apt 840,12/26/2022,Tersina Baynes
+793,apartment,467111.26,1,2,2534,2003,Apt 446,7/14/2020,Filippa Sute
+794,house,578462.97,5,3,3816,2005,4th Floor,8/15/2022,Forester Hinken
+795,townhouse,382965.78,2,3,1819,1909,Room 1776,8/15/2021,Corliss Lindbergh
+796,condo,489239.76,3,2,3457,1905,PO Box 99464,5/13/2021,Kai Owtram
+797,townhouse,722768.78,3,1,1156,1944,PO Box 23285,5/10/2021,Boris Timmes
+798,house,824104.54,1,4,4981,1950,Suite 5,10/9/2020,Quinta Metson
+799,house,582150.62,5,4,1447,1919,4th Floor,7/8/2020,Fionnula Acosta
+800,townhouse,731194.85,5,3,2240,1962,Suite 59,6/9/2021,Felizio Learned
+801,house,918756.31,3,2,4404,2004,Apt 645,8/19/2020,Garold Showte
+802,apartment,350971.4,5,3,2851,1983,Room 1512,11/12/2022,Elyse Osbourne
+803,house,451327.64,3,1,2517,1987,11th Floor,1/16/2021,Hazel Gorriessen
+804,apartment,850502.56,3,2,717,2001,Apt 129,1/28/2021,Doy Geffcock
+805,townhouse,131314.9,5,2,1398,1940,Room 1081,4/14/2021,Brady Routhorn
+806,apartment,382763.63,1,2,4806,1947,PO Box 16034,3/1/2022,Fidelia Wiltsher
+807,condo,304384.27,2,2,4259,1930,PO Box 63623,8/26/2022,Nahum Ewols
+808,apartment,449738.31,2,2,2184,1904,Room 226,11/5/2022,Auberta McNirlin
+809,apartment,139471.65,5,2,3798,1963,Apt 1205,11/24/2021,Roslyn Govier
+810,townhouse,152468.71,2,2,4711,1952,Room 418,11/20/2020,Loren Goadby
+811,house,988651.79,1,3,3104,1900,Suite 34,2/1/2020,Jillie Gergely
+812,house,420353.77,4,1,3225,1911,15th Floor,12/9/2022,Sela D'Avaux
+813,townhouse,574439.34,2,1,3181,2016,19th Floor,11/15/2020,Lyon Poppy
+814,house,254834.11,3,3,4838,1910,6th Floor,4/18/2021,Arden ffrench Beytagh
+815,apartment,996885.42,4,2,1278,1925,Room 1963,11/8/2020,Gill Tamas
+816,townhouse,886177.07,4,1,3235,2002,13th Floor,11/15/2022,Dulci Bruckenthal
+817,apartment,628690.29,1,4,4704,1910,Room 533,9/15/2022,Nikki Rosone
+818,apartment,906239.78,4,2,1949,1901,PO Box 92722,12/31/2020,Nat Telford
+819,condo,834394.76,1,3,3244,1978,8th Floor,1/19/2020,Nancy Sedgefield
+820,apartment,139230.57,1,2,3292,1911,5th Floor,8/24/2022,Jamima Lough
+821,condo,521635.33,2,2,2374,2002,PO Box 571,12/17/2020,Dorothea Vause
+822,townhouse,686248.32,4,1,660,1959,Room 684,3/4/2021,Dyna Bowcock
+823,apartment,377572.24,3,1,4738,1992,1st Floor,8/11/2020,Trisha Pike
+824,townhouse,209243.89,2,1,2476,1936,18th Floor,7/6/2022,Joellyn Hampe
+825,condo,856058.73,5,1,3473,1964,Suite 83,2/27/2022,Nell Liell
+826,townhouse,134107.8,2,3,2902,1937,PO Box 7404,12/15/2020,Yevette Huitt
+827,townhouse,479211.09,4,1,2938,1971,Suite 9,11/21/2022,Tarrance Eggleston
+828,condo,370766.14,1,2,1834,2013,Apt 539,12/8/2020,Nanice Dowe
+829,apartment,175241.03,5,4,1676,1977,PO Box 3916,11/21/2020,Ariana Oppery
+830,townhouse,219378.65,5,3,2931,2012,Suite 48,8/30/2020,Den Scarffe
+831,apartment,488937.17,5,3,3588,1915,8th Floor,11/9/2020,Salmon Dellow
+832,condo,313719.27,5,1,2234,1940,PO Box 60026,6/19/2022,Sheridan Mosconi
+833,townhouse,851103.1,2,3,4617,1959,Suite 87,6/18/2020,Normie Dust
+834,apartment,975401.45,5,4,1127,2018,Apt 341,5/23/2021,Sawyere Selwyne
+835,apartment,886060.1,1,2,4361,1969,Apt 1892,2/19/2020,Nataline Pull
+836,house,149608.24,1,3,1434,1904,Room 291,7/5/2022,Mariana Pargetter
+837,townhouse,864861.62,2,3,3910,1985,PO Box 17736,1/19/2022,Katerina Tompkin
+838,townhouse,482959.04,3,1,1050,1904,Suite 88,10/31/2022,Karlene Voaden
+839,house,934134.42,4,3,3919,1913,Suite 65,2/20/2020,Fidela Housegoe
+840,house,257690.13,5,2,3861,2016,Suite 83,2/24/2021,Lindie Malins
+841,condo,893925.85,4,1,878,2012,Apt 389,11/30/2021,Poppy Shawl
+842,townhouse,189197.71,2,3,3893,1911,Room 1577,6/18/2020,Dierdre Gieraths
+843,house,394422.2,4,4,2618,1995,16th Floor,9/16/2021,Darcy Santacrole
+844,townhouse,168738.31,1,1,3469,1960,Suite 89,9/19/2020,Richart Erickson
+845,house,737902.19,4,3,2531,2020,Suite 81,5/2/2020,Monti Renbold
+846,apartment,585175.13,3,3,3740,1953,Suite 11,12/16/2022,Johan Mardoll
+847,condo,744978.37,5,3,1334,1974,Suite 43,4/13/2022,Ransom De la Barre
+848,townhouse,822534.71,3,2,1794,1921,Room 1628,3/27/2022,Corinna Tapp
+849,townhouse,571425.82,3,3,757,2020,Room 1718,7/14/2020,Kaile Bewfield
+850,condo,286921.51,1,1,3077,1918,Apt 476,5/2/2021,Lavinie Sandyfirth
+851,condo,853233.86,3,3,4418,2018,Suite 74,7/11/2021,Mathilde Duinbleton
+852,apartment,637245.08,4,2,1886,1969,Apt 223,7/9/2021,Dulcia Spadeck
+853,house,337507.89,2,4,4223,1934,Suite 61,4/3/2021,Neil McClelland
+854,condo,567142.09,4,3,540,2004,11th Floor,12/19/2021,Eugen Mechem
+855,house,137792.67,4,2,3728,1981,20th Floor,3/27/2022,Florry Ricards
+856,townhouse,792724.38,2,2,4801,1988,Apt 877,8/14/2022,Ladonna Rothon
+857,townhouse,178730.79,4,4,1265,2018,Apt 1868,4/8/2022,Tallie Gudgin
+858,house,168776.42,4,4,2963,1924,Suite 26,9/14/2021,Kylila Willoughey
+859,apartment,315294.6,4,3,573,1970,18th Floor,5/19/2022,Luce Elwel
+860,townhouse,430299.25,3,3,2790,1986,Suite 3,4/11/2022,Eugenie Heisman
+861,apartment,611492.87,5,2,673,1932,Suite 46,4/5/2021,Jordan Armfield
+862,townhouse,571535.95,3,2,4775,1953,Room 74,5/15/2021,Zorina Tolomio
+863,townhouse,270430.01,5,1,4444,1944,Room 1774,9/23/2021,Cass Raspel
+864,townhouse,230057.08,1,2,3147,2010,PO Box 55259,1/31/2021,Irwin Aphale
+865,apartment,773142.92,5,4,1165,1987,Room 896,12/11/2021,Annecorinne Calbert
+866,condo,670913.98,4,4,1488,1982,Room 1259,9/5/2021,Cornelle Murton
+867,condo,454289.96,2,3,4178,2010,Suite 17,4/28/2020,Dottie Houchin
+868,house,851625.33,1,4,545,2010,PO Box 93610,10/29/2021,Zarla Lucock
+869,condo,658886.67,3,4,4406,1922,Suite 56,4/15/2020,Christina Plaskett
+870,apartment,544828.4,3,4,2884,1901,Apt 682,7/20/2022,Robina Leupoldt
+871,house,749092.56,3,3,1941,1924,Room 231,7/4/2020,Ellyn Tuhy
+872,townhouse,987392.87,4,1,3649,1902,PO Box 61879,8/26/2020,Gawain Biaggelli
+873,townhouse,575040.42,5,4,3084,1968,13th Floor,9/19/2021,Zonnya Boughey
+874,condo,827542.38,1,3,2414,1926,Suite 48,7/20/2021,Harlen Dubois
+875,townhouse,492116.1,2,1,4925,1924,Apt 990,10/28/2020,Brew Preskett
+876,townhouse,500626.19,1,3,3767,1972,2nd Floor,3/24/2021,Chucho Fittes
+877,condo,670221.11,3,1,3746,2001,Apt 371,8/9/2022,Barton Burcombe
+878,apartment,897739.85,3,4,3574,1937,Suite 30,12/23/2020,Berny Fusco
+879,condo,653695.56,4,2,2662,2011,PO Box 9926,4/7/2020,Rocky Schruurs
+880,townhouse,927202.15,2,4,3068,1934,Apt 1807,5/28/2020,Teador Ephgrave
+881,house,111869.49,2,3,1403,2000,Room 864,5/26/2021,Shandee Southam
+882,townhouse,352473.28,5,1,751,1916,Apt 1725,12/13/2021,Eamon Castagna
+883,house,573985.13,1,3,2384,1918,PO Box 59637,1/24/2022,Valentia Ringham
+884,townhouse,432450.08,4,1,1099,1963,9th Floor,2/3/2022,Doris Tookey
+885,house,522065.11,5,4,3271,2021,Suite 71,3/21/2022,Nolan Neljes
+886,house,935328.84,2,1,2536,1951,10th Floor,10/23/2021,Westleigh Guillet
+887,house,458386.05,2,2,2750,1982,PO Box 50293,6/27/2021,Velma Tremberth
+888,house,126713.99,4,2,1956,2014,Apt 1183,3/28/2020,Jory Longman
+889,condo,866892.1,1,1,4096,1922,Suite 49,10/19/2021,Tito Jopson
+890,house,817771.41,3,4,2767,1907,Room 1354,8/3/2020,Alanah Gibby
+891,condo,790814.04,5,2,3228,2009,PO Box 41521,2/19/2022,Arnie Kitchinghan
+892,condo,829090.31,4,1,2332,1925,17th Floor,3/2/2020,Deloris D'Cruze
+893,apartment,758535.86,5,1,3791,1915,Room 51,12/17/2022,Goddard Juniper
+894,house,324654.07,1,2,1822,1967,Apt 286,7/29/2020,Rodi Roadnight
+895,house,357673.25,2,4,4663,1965,Apt 1158,8/17/2021,Zollie Prue
+896,apartment,718192.65,3,1,2089,1933,Room 706,10/8/2021,Katey Dignum
+897,condo,959832.74,4,2,1259,1903,Apt 808,6/3/2021,Terrel Yorke
+898,apartment,391769.02,5,2,4751,1985,Suite 79,5/10/2021,Wanda Wycliffe
+899,house,878338.6,1,4,845,1983,Room 1507,2/28/2022,Osbourn Domonkos
+900,townhouse,732838.41,4,4,1144,1914,Room 287,9/2/2020,Helene Shannahan
+901,apartment,715442.33,4,3,552,1956,Room 1567,6/2/2020,Rudd Dello
+902,house,951391.76,4,3,2939,2022,PO Box 43254,12/27/2020,Davita Gallant
+903,townhouse,671992.63,2,4,4329,1909,3rd Floor,6/1/2022,Beale Sutherel
+904,condo,259938.17,1,2,925,1962,Apt 804,5/24/2021,Felice Megainey
+905,house,964970.1,1,1,1834,1939,Apt 571,6/8/2021,Meryl Hertwell
+906,condo,616772.96,4,3,1466,1940,Room 18,8/24/2021,Westley Coogan
+907,townhouse,886847.13,4,3,2209,2012,Room 1058,6/18/2021,Melody McParland
+908,condo,852921.94,4,1,1361,1988,Room 1344,2/6/2020,Kalina Breddy
+909,apartment,131846.09,5,1,2882,1995,Suite 20,10/29/2020,Allegra Futty
+910,condo,367818.49,2,4,4830,1969,6th Floor,9/19/2022,Dante Aharoni
+911,house,224253.54,5,2,901,1948,Room 1588,5/24/2021,Jocelyn Gehrts
+912,townhouse,384885.25,1,3,2655,1960,4th Floor,9/2/2022,Alejoa Bickle
+913,house,490311.62,3,2,4180,1982,Apt 1078,7/22/2021,Selinda Murtimer
+914,condo,837259.84,3,2,3466,1943,Suite 47,12/12/2020,Leela Alenshev
+915,condo,819981.85,2,1,1034,1973,PO Box 23004,3/30/2020,Griz Gadie
+916,apartment,351040.79,4,1,2495,2004,PO Box 76127,5/18/2021,Merissa Outhwaite
+917,house,309544.4,1,3,2278,1916,Apt 1125,6/17/2022,Tasia Browncey
+918,condo,394378.32,5,4,3116,1929,12th Floor,8/28/2021,Verla Dawltrey
+919,condo,461277.93,2,1,1769,1946,Suite 42,7/6/2022,Vance Dybald
+920,townhouse,846612.93,4,2,1080,1976,4th Floor,5/19/2021,Elysee Williscroft
+921,apartment,209392.15,4,4,939,2016,Apt 472,1/8/2021,Jere Orneles
+922,house,399808.72,1,1,1246,2005,17th Floor,9/29/2020,Ezekiel McIlroy
+923,condo,229524.67,3,3,2382,1954,Room 866,1/16/2022,Giuditta Fildery
+924,townhouse,843172.9,4,1,3346,1956,9th Floor,11/19/2020,Lou Winser
+925,house,530027.02,2,1,3981,1918,Suite 46,9/12/2020,Gil Arpin
+926,apartment,309780.67,5,1,3921,1969,Suite 67,3/1/2020,Mabel Powdrill
+927,townhouse,136017.79,1,2,4174,1939,Apt 1447,6/9/2020,Jeniffer Patridge
+928,condo,840290.91,1,4,2040,1959,Room 620,12/2/2022,Jermaine Dohrmann
+929,apartment,162365.57,3,1,4188,2022,Apt 203,2/20/2020,Raleigh Hollerin
+930,condo,730571.56,5,2,616,1978,Apt 1859,7/29/2021,Powell Gallen
+931,condo,986397.77,2,4,3564,1969,PO Box 17550,12/15/2022,Tull Markovic
+932,condo,280016.2,5,4,4644,1975,Suite 16,2/26/2021,Farand Batchley
+933,apartment,735717.94,5,3,518,1973,Room 508,12/25/2021,Jack Cund
+934,house,133774.41,4,2,4757,1912,Apt 1140,2/14/2020,Betteanne McCudden
+935,townhouse,152849.42,2,3,2230,1967,PO Box 61625,11/11/2020,Eldin Tregear
+936,condo,696224.08,1,3,1118,1913,PO Box 10243,10/26/2022,Glyn Briston
+937,apartment,416853.59,1,4,894,1944,PO Box 88103,7/29/2021,Farley Beadnell
+938,apartment,743459.48,2,2,2270,1902,Suite 93,8/13/2020,Ermin Balmforth
+939,apartment,614645.92,5,3,4235,2022,9th Floor,6/1/2020,Adelbert Korlat
+940,townhouse,701655.21,4,1,3912,2019,Apt 741,1/15/2020,Anderea Harriot
+941,house,210631.27,5,2,1606,2020,Room 1936,3/7/2021,Valerie Hazart
+942,apartment,765216.72,1,3,3371,1996,PO Box 24258,1/23/2022,Charley Bernier
+943,house,622277.98,1,1,1453,1999,Suite 26,2/21/2022,Oona Keeton
+944,townhouse,902149.3,1,4,800,1909,PO Box 14743,8/2/2020,Bastien Krystek
+945,townhouse,949032.71,5,3,1345,1990,Suite 26,12/31/2020,Tito Hockell
+946,apartment,338804.66,2,2,3630,1923,Suite 24,7/28/2021,Ediva Conlaund
+947,house,605344.63,3,2,1422,2000,15th Floor,12/24/2022,Dean Dungee
+948,condo,543738.76,2,1,1300,1981,Suite 17,3/23/2022,Bella Spinks
+949,townhouse,164336.79,1,1,2605,1981,PO Box 44741,12/15/2020,Hobie Mahmood
+950,house,851200.64,3,2,3689,1925,Apt 424,8/7/2021,Laetitia Fearnyhough
+951,townhouse,673623.46,1,2,1966,1909,Apt 1928,9/19/2021,Allyce Lergan
+952,townhouse,981244.66,4,1,3412,2018,Suite 36,9/23/2020,Stan Couvert
+953,house,313268.35,3,3,4047,1931,PO Box 52209,3/19/2020,Griswold Killshaw
+954,apartment,686466.34,1,3,1565,1923,PO Box 47773,4/4/2022,Amandi Singyard
+955,house,695630.66,2,4,2021,1927,Room 283,8/18/2022,Farris Reimer
+956,apartment,322110.57,2,3,2795,1992,PO Box 34824,5/22/2021,Christyna Marqyes
+957,condo,718979.91,1,1,1749,1922,Apt 488,8/17/2022,Ricoriki Upson
+958,townhouse,668426.6,2,4,1085,1920,Apt 957,8/28/2020,Charisse Arsmith
+959,apartment,121790.89,4,4,2493,2001,Suite 63,9/10/2022,Ariel Simmans
+960,townhouse,769714.05,4,4,3034,1915,Apt 1074,5/17/2021,Melinda Withinshaw
+961,house,285722.95,3,2,3560,1948,Apt 22,8/3/2020,Leonidas Jearum
+962,townhouse,444726.2,3,3,754,1973,PO Box 51315,2/13/2021,Dale Looby
+963,condo,741096.28,2,4,3788,2012,Apt 1243,2/10/2020,Livvie Pimer
+964,apartment,931737.3,5,4,2849,1929,PO Box 67504,2/10/2022,Zola Tollet
+965,house,704131.41,4,3,594,1976,Apt 1234,11/2/2022,Cullen Maymond
+966,condo,674201.37,2,1,3746,1971,Apt 1673,8/12/2021,Clea Zorzin
+967,house,591527.62,2,4,4001,1963,Suite 86,1/29/2020,Ancell Hollidge
+968,house,457365.08,4,1,4670,1997,Suite 7,4/1/2020,Steven Ludye
+969,apartment,105225.44,5,2,761,2010,Suite 55,10/4/2020,Gertie Pollen
+970,condo,413821.53,2,1,3321,1972,Suite 85,1/22/2021,Coop Jerzyk
+971,apartment,704845.59,1,2,1071,1908,2nd Floor,1/30/2020,Merralee Bault
+972,townhouse,368196.93,5,2,1713,1960,PO Box 84089,7/9/2021,Pierette Remmers
+973,townhouse,471120.08,5,2,2768,1931,9th Floor,5/18/2021,Germain Lademann
+974,townhouse,580355.59,5,4,3997,1999,Apt 1446,11/18/2022,Tedman Ciardo
+975,house,346238.66,5,4,1034,1944,Suite 3,8/17/2021,Gretna Miners
+976,townhouse,305518.33,2,2,4627,1971,2nd Floor,3/7/2021,Daniele Arstall
+977,apartment,595506.71,3,3,1481,1985,Apt 1616,2/7/2021,Marcelia Kleinschmidt
+978,apartment,707997.91,1,2,2048,1928,Apt 312,8/1/2020,Pascale Ruzic
+979,house,440220.54,5,4,4262,1919,Suite 25,8/12/2021,Jerrilyn Rowlands
+980,townhouse,660762.66,1,3,864,2009,Suite 18,1/6/2020,Beatrix Kirgan
+981,apartment,823548.04,2,2,689,1914,Suite 58,8/11/2021,Merrie Popping
+982,house,983148.35,5,3,3758,2014,5th Floor,4/3/2020,Ewan Almak
+983,house,361044.06,1,3,4570,1922,PO Box 29550,4/2/2022,Moshe Slee
+984,apartment,107504.41,1,3,3424,1952,Suite 73,8/28/2020,Carlin Clarage
+985,townhouse,493191.18,3,1,2296,1934,PO Box 11357,2/28/2022,Lefty Kaesmakers
+986,condo,273246.41,5,4,2471,2011,4th Floor,4/12/2022,Herschel Scading
+987,apartment,734335.67,3,4,4545,1994,PO Box 36461,9/6/2021,Bailey Jurzyk
+988,house,974271.89,5,1,2289,1932,Apt 221,4/2/2022,Mattias Stanlack
+989,apartment,345628.53,2,1,2994,2013,Room 909,3/11/2022,Elysee Gowry
+990,condo,650789.58,4,4,1732,1980,3rd Floor,4/26/2021,Ronalda Baldry
+991,condo,113357.68,2,2,629,1904,5th Floor,6/18/2022,Claiborne Widdowfield
+992,apartment,647372.3,1,2,1379,1957,Room 1598,2/26/2020,Glenn Faircley
+993,house,358013.97,5,4,2521,1938,Suite 43,2/28/2021,Jarret McMurtyr
+994,condo,661088.94,2,3,4869,1998,Suite 72,4/9/2022,Lisle Prewer
+995,house,865398.95,3,2,1757,2001,Apt 1224,3/15/2021,Edmon Colcutt
+996,apartment,142875.72,5,4,1352,1924,PO Box 55220,5/7/2022,Thomasa Lentsch
+997,apartment,263894.4,4,1,2939,1966,4th Floor,4/21/2020,Adolpho MacKeogh
+998,townhouse,266288.87,2,2,4778,1910,Apt 1662,4/4/2021,Randene Minnette
+999,townhouse,248114.37,3,1,3991,1985,PO Box 43677,6/14/2022,Viv Este
+1000,condo,772812.7,5,4,4954,1980,Suite 30,8/11/2020,Kurt Epilet
